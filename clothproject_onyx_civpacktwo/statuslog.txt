@@ -1895,3 +1895,1254 @@
 2026-03-21T09:18:54.9482167-04:00|Successfully backed up project 2026-03-21 09:18:54.
 2026-03-21T09:19:54.9503851-04:00|Successfully backed up project 2026-03-21 09:19:54.
 2026-03-21T09:20:29.0843444-04:00|Project with 1709 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpacktwo.dctproj).
+2026-03-21T09:29:07.1385671-04:00|Trying to optimize texture 'a' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:11.4020597-04:00|Texture 'a' (876afea6-b5fb-4a32-8702-b4a1359c2b07.ytd) file got successfully updated to b95ec873-3dc2-435f-b078-daef3f7635c6.ytd.
+2026-03-21T09:29:11.6553936-04:00|Texture 1 optimized from 301 KB to 170 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:11.6652834-04:00|Successfully optimized drawable texture 'a' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:11.8337061-04:00|Trying to optimize texture 'b' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:15.9475505-04:00|Texture 'b' (c3b992e5-e6e8-4efd-bbd9-da6632e350b1.ytd) file got successfully updated to 65b68917-868f-442f-badb-dfa60914edcd.ytd.
+2026-03-21T09:29:16.1602852-04:00|Texture S4_3453CF95_80000000_9CE6B25BEAC4F5A1%%+RLE2 optimized from 297 KB to 170 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:16.1682742-04:00|Successfully optimized drawable texture 'b' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:16.3487461-04:00|Trying to optimize texture 'c' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:20.2376516-04:00|Texture 'c' (dc9e29d0-d83a-43bd-b642-71990c60945e.ytd) file got successfully updated to de4e0ac8-7fa3-4251-b622-fcde80306c79.ytd.
+2026-03-21T09:29:20.4389643-04:00|Texture S4_3453CF95_80000000_9CEDB15BEACB12A4%%+RLE2 optimized from 317 KB to 179 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:20.4534127-04:00|Successfully optimized drawable texture 'c' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:20.5996482-04:00|Trying to optimize texture 'd' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:24.3232218-04:00|Texture 'd' (5ce4cb72-43d3-4cab-b660-a991fc4ac6d7.ytd) file got successfully updated to 8791d9d6-6bd0-4c45-b40e-62f04f172021.ytd.
+2026-03-21T09:29:24.5974059-04:00|Texture S4_3453CF95_80000000_9CF13B5BEACE32D8%%+RLE2 optimized from 341 KB to 184 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:24.6153570-04:00|Successfully optimized drawable texture 'd' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:24.8297024-04:00|Trying to optimize texture 'e' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:28.5260660-04:00|Texture 'e' (606c16ac-a928-40f4-9f52-badd22a49d09.ytd) file got successfully updated to 47c13667-0151-4e9b-8cac-c6b921f50475.ytd.
+2026-03-21T09:29:28.8384105-04:00|Texture S4_3453CF95_80000000_9CF4435BEAD07667%%+RLE2 optimized from 330 KB to 180 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:28.8478346-04:00|Successfully optimized drawable texture 'e' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:29.0005655-04:00|Trying to optimize texture 'f' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:32.5764113-04:00|Texture 'f' (a66a957e-c380-4b9b-b8c0-b3313c1f7180.ytd) file got successfully updated to 454087c3-21a4-49ba-8821-9154cf9f7952.ytd.
+2026-03-21T09:29:32.7564810-04:00|Texture S4_3453CF95_80000000_9CF4445BEAD07833%%+RLE2 optimized from 319 KB to 175 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:32.7905738-04:00|Successfully optimized drawable texture 'f' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:32.9255714-04:00|Trying to optimize texture 'g' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:36.4000884-04:00|Texture 'g' (a89c1051-4f2c-481a-a193-ff919b300d6b.ytd) file got successfully updated to 5f18cff7-b847-4209-8781-fe1b33ba5d8d.ytd.
+2026-03-21T09:29:36.5656462-04:00|Texture S4_3453CF95_80000000_9CFEBC5BEAD99841%%+RLE2 optimized from 329 KB to 182 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:36.5753426-04:00|Successfully optimized drawable texture 'g' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:36.7235814-04:00|Trying to optimize texture 'h' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:40.1627764-04:00|Texture 'h' (5d37c9fc-2aab-4558-9b4c-ad1f515a7a16.ytd) file got successfully updated to c466db9d-38a2-4a91-99a4-14b92a67ca0f.ytd.
+2026-03-21T09:29:40.2993573-04:00|Texture S4_3453CF95_80000000_9D0FAF5BEAE7F5A5%%+RLE2 optimized from 325 KB to 181 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:40.3077382-04:00|Successfully optimized drawable texture 'h' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:40.4876494-04:00|Trying to optimize texture 'i' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:43.6520455-04:00|Texture 'i' (03ed8a9b-eee0-41b9-86d2-f98375dc1f51.ytd) file got successfully updated to df808a20-6df2-4a86-8d86-8c1c1e7df6af.ytd.
+2026-03-21T09:29:43.8599669-04:00|Texture S4_3453CF95_80000000_9D0FB55BEAE7FFF0%%+RLE2 optimized from 323 KB to 181 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:43.8833662-04:00|Successfully optimized drawable texture 'i' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:44.0265152-04:00|Trying to optimize texture 'j' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:47.1553108-04:00|Texture 'j' (06b54e5a-2f22-4b17-9468-22a60bcb68fe.ytd) file got successfully updated to 2594acdb-4300-4b7e-9ed7-eccb105dc9a9.ytd.
+2026-03-21T09:29:47.2882774-04:00|Texture S4_3453CF95_80000000_83D83A5BDCD73A48%%+RLE2 optimized from 317 KB to 176 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:47.3145792-04:00|Successfully optimized drawable texture 'j' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:47.5002591-04:00|Trying to optimize texture 'k' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:50.5223845-04:00|Texture 'k' (9356caaf-2d2d-45c6-949c-41d7e99d6903.ytd) file got successfully updated to cfe34d7f-9746-4a95-8fe4-ded1fc48e510.ytd.
+2026-03-21T09:29:50.5677353-04:00|Texture S4_3453CF95_80000000_83DF4A5BDCDD7463%%+RLE2 optimized from 340 KB to 185 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:50.6347723-04:00|Successfully optimized drawable texture 'k' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:50.8112373-04:00|Trying to optimize texture 'l' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:53.7210720-04:00|Texture 'l' (1b56832d-b735-460e-be6f-1ec0ccc52442.ytd) file got successfully updated to 89ea690f-f020-4540-bc8e-47fdcaa219f5.ytd.
+2026-03-21T09:29:53.9144140-04:00|Texture S4_3453CF95_80000000_83DF445BDCDD6A10%%+RLE2 optimized from 326 KB to 183 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:53.9239116-04:00|Successfully optimized drawable texture 'l' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:54.1182241-04:00|Trying to optimize texture 'm' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:29:57.0163749-04:00|Texture 'm' (129df984-68af-451c-a80a-240caa366efc.ytd) file got successfully updated to a4b62c61-6741-413c-8a88-447f376e738d.ytd.
+2026-03-21T09:29:57.0622814-04:00|Texture S4_3453CF95_80000000_83DF485BDCDD70C5%%+RLE2 optimized from 301 KB to 169 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:29:57.0845150-04:00|Successfully optimized drawable texture 'm' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:29:57.2479084-04:00|Trying to optimize texture 'n' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:00.0837780-04:00|Texture 'n' (f246b119-d0d4-43c8-bb19-d4711afdf6f4.ytd) file got successfully updated to f195baf3-709f-4ace-8ad8-991ad0781681.ytd.
+2026-03-21T09:30:00.1098576-04:00|Texture S4_3453CF95_80000000_93DB0A5BE589E022%%+RLE2 optimized from 303 KB to 175 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:00.1183454-04:00|Successfully optimized drawable texture 'n' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:00.2701612-04:00|Trying to optimize texture 'o' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:02.9832491-04:00|Texture 'o' (a90c2b1c-9c98-4bd8-aae7-0d6dc00775b0.ytd) file got successfully updated to 675068ab-2a79-4647-ab5f-8f0f218ea9a7.ytd.
+2026-03-21T09:30:03.1536907-04:00|Texture S4_3453CF95_80000000_93E89B5BE59560E9%%+RLE2 optimized from 343 KB to 186 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:03.1620492-04:00|Successfully optimized drawable texture 'o' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:03.3345234-04:00|Trying to optimize texture 'p' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:05.9003190-04:00|Texture 'p' (b29f08fd-a50a-4e9d-a313-a858cb9fa2bb.ytd) file got successfully updated to 88731864-afc3-42d6-8f86-687081805d21.ytd.
+2026-03-21T09:30:05.9487638-04:00|Texture S4_3453CF95_80000000_93E1965BE58F3998%%+RLE2 optimized from 337 KB to 186 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:05.9860066-04:00|Successfully optimized drawable texture 'p' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:06.1742767-04:00|Trying to optimize texture 'q' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:08.4661646-04:00|Texture 'q' (e08949d6-24d7-43b0-9530-1def68b73065.ytd) file got successfully updated to ff29ee27-86d8-460d-bd44-ef8b9c5682ea.ytd.
+2026-03-21T09:30:08.4970548-04:00|Texture S4_3453CF95_80000000_93E8995BE5955D45%%+RLE2 optimized from 337 KB to 183 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:08.5214133-04:00|Successfully optimized drawable texture 'q' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:08.6902949-04:00|Trying to optimize texture 'r' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:10.9490084-04:00|Texture 'r' (06c807dd-57fb-45ba-9aec-0b44c2a0f7c0.ytd) file got successfully updated to b1dcae3c-b017-4106-9d5e-078e5c308bb5.ytd.
+2026-03-21T09:30:10.9773348-04:00|Texture S4_3453CF95_80000000_93EF045BE59A7EC7%%+RLE2 optimized from 290 KB to 171 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:10.9852515-04:00|Successfully optimized drawable texture 'r' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:11.1897382-04:00|Trying to optimize texture 's' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:13.3367982-04:00|Texture 's' (5d3f6d55-ded9-425c-b538-45f87a0d7144.ytd) file got successfully updated to 59af3b56-4832-4f33-8cee-7ed1e49f946a.ytd.
+2026-03-21T09:30:13.3684014-04:00|Texture S4_3453CF95_80000000_93EF065BE59A826A%%+RLE2 optimized from 323 KB to 183 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:13.3774331-04:00|Successfully optimized drawable texture 's' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:13.5481691-04:00|Trying to optimize texture 't' of 'Female 10 Bag' (Bag) at pos 10 ...
+2026-03-21T09:30:15.5251959-04:00|Texture 't' (556f3141-3adf-4369-b5b1-ed64fd12a43b.ytd) file got successfully updated to 9eb11e24-79f7-4e3d-bc4d-c9e89d771d3f.ytd.
+2026-03-21T09:30:15.5764855-04:00|Texture S4_3453CF95_80000000_9400045BE5A8F216%%+RLE2 optimized from 321 KB to 175 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:30:15.6084116-04:00|Successfully optimized drawable texture 't' of 'Female 10 Bag' (Bag) at pos 10
+2026-03-21T09:30:54.9775369-04:00|Successfully backed up project 2026-03-21 09:30:54.
+2026-03-21T09:31:54.9699050-04:00|Successfully backed up project 2026-03-21 09:31:54.
+2026-03-21T09:32:54.9811093-04:00|Successfully backed up project 2026-03-21 09:32:54.
+2026-03-21T09:33:54.9606951-04:00|Successfully backed up project 2026-03-21 09:33:54.
+2026-03-21T09:34:54.9632253-04:00|Successfully backed up project 2026-03-21 09:34:54.
+2026-03-21T09:35:54.9680228-04:00|Successfully backed up project 2026-03-21 09:35:54.
+2026-03-21T09:36:55.9535900-04:00|Successfully backed up project 2026-03-21 09:36:55.
+2026-03-21T09:37:15.6753432-04:00|Trying to optimize texture 'a' of 'Female 105 Undershirt' (Undershirt) at pos 105 ...
+2026-03-21T09:37:17.1165385-04:00|Texture 'a' (e415f2fd-cc8b-4bf0-8ad6-212c609c7d15.ytd) file got successfully updated to 09b26557-9834-4af8-b08b-a2157225c4a2.ytd.
+2026-03-21T09:37:17.4516733-04:00|Texture S4_3453CF95_80000000_48C12FCC2B57CDBE%%+RLE2_rle2 optimized from 457 KB to 207 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:37:17.4593164-04:00|Successfully optimized drawable texture 'a' of 'Female 105 Undershirt' (Undershirt) at pos 105
+2026-03-21T09:37:33.9531351-04:00|Trying to optimize texture 'a' of 'Female 106 Undershirt' (Undershirt) at pos 106 ...
+2026-03-21T09:37:35.3497070-04:00|Texture 'a' (f07b2923-4ded-408b-83d4-b92c514415b0.ytd) file got successfully updated to ae88960e-132a-4224-8e42-d99c5ed4c3fc.ytd.
+2026-03-21T09:37:35.4780506-04:00|Texture 01 optimized from 599 KB to 257 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:37:35.5101640-04:00|Successfully optimized drawable texture 'a' of 'Female 106 Undershirt' (Undershirt) at pos 106
+2026-03-21T09:37:54.9667500-04:00|Successfully backed up project 2026-03-21 09:37:54.
+2026-03-21T09:38:10.9820204-04:00|Trying to optimize texture 'a' of 'Female 107 Top' (Top) at pos 107 ...
+2026-03-21T09:38:12.4185347-04:00|Texture 'a' (8c9c38c1-6c38-4950-8a81-55d91a005644.ytd) file got successfully updated to a51f0e63-b146-4b77-b347-a8b57791478b.ytd.
+2026-03-21T09:38:12.5582402-04:00|Texture S4_3453CF95_80000000_0CF7DBF269F49DF9%%+RLE2_rle2 optimized from 613 KB to 263 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:38:12.5843484-04:00|Successfully optimized drawable texture 'a' of 'Female 107 Top' (Top) at pos 107
+2026-03-21T09:38:27.0305527-04:00|Trying to optimize texture 'a' of 'Female 107 Undershirt' (Undershirt) at pos 107 ...
+2026-03-21T09:38:28.5662962-04:00|Texture 'a' (f4e48211-7bc1-47af-b63f-a57c0d49ccaa.ytd) file got successfully updated to 2148b916-3326-468b-8374-eeebeb534bdf.ytd.
+2026-03-21T09:38:28.6940991-04:00|Texture S4_3453CF95_80000000_107E34DCC86BCBC7%%+RLE2_rle2 optimized from 739 KB to 303 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:38:28.7087127-04:00|Successfully optimized drawable texture 'a' of 'Female 107 Undershirt' (Undershirt) at pos 107
+2026-03-21T09:38:57.6192310-04:00|Trying to optimize texture 'a' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:00.3874587-04:00|Texture 'a' (2e02424a-1135-44fb-8744-4a14e139e5d6.ytd) file got successfully updated to f5f606dc-6c8c-47eb-b57a-7bddb0665c47.ytd.
+2026-03-21T09:39:00.6547790-04:00|Texture S4_3453CF95_80000000_9E70D2C8D850879D%%+RLE2 optimized from 338 KB to 181 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:00.6634551-04:00|Successfully optimized drawable texture 'a' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:00.8025758-04:00|Trying to optimize texture 'b' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:03.5521881-04:00|Texture 'b' (812f68ca-0daf-4883-a899-505f9d80432b.ytd) file got successfully updated to 57a8669d-2548-4c71-845e-d89d28945dcd.ytd.
+2026-03-21T09:39:03.6934506-04:00|Texture S4_3453CF95_80000000_82D2B1FEFA43FDBD%%+RLE2_rle2 optimized from 412 KB to 201 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:03.7181076-04:00|Successfully optimized drawable texture 'b' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:03.8745636-04:00|Trying to optimize texture 'c' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:06.4970079-04:00|Texture 'c' (192c31ac-02ee-45da-aa84-ace760933ae4.ytd) file got successfully updated to 31004b16-b481-49d6-9c12-79eebee2bdbe.ytd.
+2026-03-21T09:39:06.6345401-04:00|Texture S4_3453CF95_80000000_90302A4CEBBA7536%%+RLE2 optimized from 381 KB to 193 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:06.6481371-04:00|Successfully optimized drawable texture 'c' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:06.8072051-04:00|Trying to optimize texture 'd' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:09.0994274-04:00|Texture 'd' (4f43b828-4808-4110-9ea3-491485644b97.ytd) file got successfully updated to 39c0ef70-b04d-4214-af85-f94a6978b422.ytd.
+2026-03-21T09:39:09.2891461-04:00|Texture S4_3453CF95_80000000_B55B6239464956BA%%+RLE2 optimized from 336 KB to 180 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:09.2986518-04:00|Successfully optimized drawable texture 'd' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:09.5196184-04:00|Trying to optimize texture 'e' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:11.6134409-04:00|Texture 'e' (d01671d3-dd6c-4c2a-b69f-8f8968e2c318.ytd) file got successfully updated to 465b9cfa-1fb1-40c8-a1ea-e6af0b9bc6ad.ytd.
+2026-03-21T09:39:11.7973926-04:00|Texture S4_3453CF95_80000000_B70295F2401B46A2%%+RLE2 optimized from 365 KB to 192 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:11.8075352-04:00|Successfully optimized drawable texture 'e' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:11.9795764-04:00|Trying to optimize texture 'f' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:14.0871451-04:00|Texture 'f' (ab3f456f-6dcf-4b36-8664-77b9468862d2.ytd) file got successfully updated to f95eece2-59fd-4bf1-b0f2-29c1ba99b7c2.ytd.
+2026-03-21T09:39:14.3708840-04:00|Texture S4_3453CF95_80000000_B31889855CABCBD7%%+RLE2 optimized from 327 KB to 174 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:14.3800665-04:00|Successfully optimized drawable texture 'f' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:14.5424429-04:00|Trying to optimize texture 'g' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:16.5461024-04:00|Texture 'g' (e10ab989-8374-4d90-8eac-e2bfbf6325ce.ytd) file got successfully updated to e48a603e-b7b3-4abe-92da-4919d4db4123.ytd.
+2026-03-21T09:39:16.6983535-04:00|Texture S4_3453CF95_80000000_BA5288F945226F99%%+RLE2 optimized from 356 KB to 184 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:16.7198513-04:00|Successfully optimized drawable texture 'g' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:16.9394255-04:00|Trying to optimize texture 'h' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:19.0597742-04:00|Texture 'h' (88c7c17d-b9b1-4b44-9aff-321503b180e6.ytd) file got successfully updated to b312217e-bf1b-4200-9db1-c084e525b0c8.ytd.
+2026-03-21T09:39:19.2098523-04:00|Texture S4_3453CF95_80000000_BB4CBDC992566EBD%%+RLE2 optimized from 322 KB to 177 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:19.2432463-04:00|Successfully optimized drawable texture 'h' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:19.4377946-04:00|Trying to optimize texture 'i' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:21.2575160-04:00|Texture 'i' (da8aef50-1b27-4683-b2e0-5840cd1126f6.ytd) file got successfully updated to 14024a85-6f40-4970-9d51-ada36194fdbb.ytd.
+2026-03-21T09:39:21.4108931-04:00|Texture S4_3453CF95_80000000_DEA6CF7EDA7E0ABC%%+RLE2 optimized from 278 KB to 160 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:21.4471228-04:00|Successfully optimized drawable texture 'i' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:21.5974391-04:00|Trying to optimize texture 'j' of 'Female 108 Top' (Top) at pos 108 ...
+2026-03-21T09:39:23.5207082-04:00|Texture 'j' (22dc1b9f-9b01-4ea0-a8b5-c98c0fac8eea.ytd) file got successfully updated to b3742ff5-5b75-43cb-b407-68ad5ded6f81.ytd.
+2026-03-21T09:39:23.6659972-04:00|Texture S4_3453CF95_80000000_E62FCFC6568CDC05%%+RLE2 optimized from 263 KB to 165 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:39:23.6749524-04:00|Successfully optimized drawable texture 'j' of 'Female 108 Top' (Top) at pos 108
+2026-03-21T09:39:54.9805322-04:00|Successfully backed up project 2026-03-21 09:39:54.
+2026-03-21T09:40:54.9726126-04:00|Successfully backed up project 2026-03-21 09:40:54.
+2026-03-21T09:41:04.0246859-04:00|Trying to optimize texture 'a' of 'Female 108 Undershirt' (Undershirt) at pos 108 ...
+2026-03-21T09:41:05.5333834-04:00|Texture 'a' (39eccffc-4544-48ed-b909-068a67a2c4b5.ytd) file got successfully updated to 0ec7f16c-a6ef-4c00-b35f-79729d87b019.ytd.
+2026-03-21T09:41:05.6835175-04:00|Texture S4_3453CF95_80000000_6A3DECDCE6BDB52D%%+RLE2_rle2 optimized from 115 KB to 83 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:41:05.7186447-04:00|Successfully optimized drawable texture 'a' of 'Female 108 Undershirt' (Undershirt) at pos 108
+2026-03-21T09:41:48.8471575-04:00|Trying to optimize texture 'a' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:41:51.8309302-04:00|Texture 'a' (bed1ab94-9c52-4e06-b214-e4ee6d834b07.ytd) file got successfully updated to 899685d9-08a5-44fe-a943-7e029e88eac4.ytd.
+2026-03-21T09:41:51.9863301-04:00|Texture S4_3453CF95_80000000_9B06E1859C074B5B%%+RLE2 optimized from 347 KB to 195 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:41:51.9951410-04:00|Successfully optimized drawable texture 'a' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:41:52.2241934-04:00|Trying to optimize texture 'b' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:41:54.9717603-04:00|Texture 'b' (aebbb46d-25af-47f9-87a0-493f842c4f66.ytd) file got successfully updated to e6090de0-758c-41d1-b59e-0114ced2a63a.ytd.
+2026-03-21T09:41:55.3242184-04:00|Texture S4_3453CF95_80000000_9E2CE1484A8E65D6%%+RLE2 optimized from 330 KB to 187 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:41:55.3316091-04:00|Successfully optimized drawable texture 'b' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:41:55.4919315-04:00|Trying to optimize texture 'c' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:41:57.8730471-04:00|Texture 'c' (6fe25d36-248d-40b3-977f-397df9d775fe.ytd) file got successfully updated to 85e6e230-c85a-4784-96d7-1073b1d75da7.ytd.
+2026-03-21T09:41:58.0043424-04:00|Texture S4_3453CF95_80000000_83C3EF9A0944DABB%%+RLE2 optimized from 339 KB to 190 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:41:58.0252734-04:00|Successfully optimized drawable texture 'c' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:41:58.1787572-04:00|Trying to optimize texture 'd' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:00.6466024-04:00|Texture 'd' (f347ca53-24e4-4f8c-820f-8ec7243c17b8.ytd) file got successfully updated to 6afce6a7-9d04-446b-9e6c-20685cf1c394.ytd.
+2026-03-21T09:42:00.7888524-04:00|Texture S4_3453CF95_80000000_07013C8245D4F725%%+RLE2 optimized from 316 KB to 182 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:00.7970560-04:00|Successfully optimized drawable texture 'd' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:00.9535365-04:00|Trying to optimize texture 'e' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:03.3216290-04:00|Texture 'e' (1c3e3ad0-d888-4007-a0d9-0ef8406b516d.ytd) file got successfully updated to 33e35e86-e237-4e8c-997c-a2049b50e6c2.ytd.
+2026-03-21T09:42:03.4625097-04:00|Texture S4_3453CF95_80000000_8775DA144BF91C9E%%+RLE2 optimized from 355 KB to 196 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:03.4994916-04:00|Successfully optimized drawable texture 'e' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:03.6677282-04:00|Trying to optimize texture 'f' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:05.8828498-04:00|Texture 'f' (b4dc21ba-7001-40a2-994d-a31399ee092c.ytd) file got successfully updated to c46bec4f-7699-4859-b8d2-dab99d973549.ytd.
+2026-03-21T09:42:06.0462089-04:00|Texture S4_3453CF95_80000000_AE87ADF946EDEBA7%%+RLE2 optimized from 359 KB to 197 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:06.0554999-04:00|Successfully optimized drawable texture 'f' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:06.2349686-04:00|Trying to optimize texture 'g' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:08.3418306-04:00|Texture 'g' (aa8affe0-7d55-4d84-b67c-5b7122645a9a.ytd) file got successfully updated to 67f664a3-c984-420c-bec3-3bc5db117bd6.ytd.
+2026-03-21T09:42:08.6130652-04:00|Texture S4_3453CF95_80000000_CAC9711296D2C1A9%%+RLE2 optimized from 331 KB to 188 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:08.6218697-04:00|Successfully optimized drawable texture 'g' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:08.7835333-04:00|Trying to optimize texture 'h' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:10.7975304-04:00|Texture 'h' (fc552ddf-aae7-42bf-b0ef-a4611c13dcba.ytd) file got successfully updated to ce8b31d7-c6d9-4d72-9da1-7e180f7fdbfa.ytd.
+2026-03-21T09:42:10.9628868-04:00|Texture S4_3453CF95_80000000_CCD417C30E64E39E%%+RLE2 optimized from 355 KB to 195 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:10.9865128-04:00|Successfully optimized drawable texture 'h' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:11.1869150-04:00|Trying to optimize texture 'i' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:13.0902639-04:00|Texture 'i' (75a70fdc-302b-48c3-a6e4-3b2515b9547e.ytd) file got successfully updated to 3b3ee99d-4007-4afe-8cd3-fd09fa88994e.ytd.
+2026-03-21T09:42:13.4553907-04:00|Texture S4_3453CF95_80000000_EE6F2423AAFFF285%%+RLE2 optimized from 346 KB to 194 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:13.4666749-04:00|Successfully optimized drawable texture 'i' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:13.6544135-04:00|Trying to optimize texture 'j' of 'Female 109 Undershirt' (Undershirt) at pos 109 ...
+2026-03-21T09:42:15.3254046-04:00|Texture 'j' (247e0daa-a27e-4048-a06d-cb2b386a0b39.ytd) file got successfully updated to 9fc8273d-9a0b-49d0-b2a5-c125826945c1.ytd.
+2026-03-21T09:42:15.5091719-04:00|Texture S4_3453CF95_80000000_F27C41C6A4C1025D%%+RLE2_rle2 optimized from 323 KB to 185 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:42:15.5175203-04:00|Successfully optimized drawable texture 'j' of 'Female 109 Undershirt' (Undershirt) at pos 109
+2026-03-21T09:42:54.9738768-04:00|Successfully backed up project 2026-03-21 09:42:54.
+2026-03-21T09:43:54.9630601-04:00|Successfully backed up project 2026-03-21 09:43:54.
+2026-03-21T09:44:14.1220803-04:00|Trying to optimize texture 'a' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:44:19.7581958-04:00|Texture 'a' (fee06e49-a174-4a83-8e52-99939163f0a9.ytd) file got successfully updated to d1a9a763-1067-4607-a09c-266cfc53384a.ytd.
+2026-03-21T09:44:20.1980793-04:00|Texture S4_3453CF95_80000000_B77DA54733B15285%%+RLE2 optimized from 459 KB to 216 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:44:20.2074449-04:00|Successfully optimized drawable texture 'a' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:44:54.9647404-04:00|Successfully backed up project 2026-03-21 09:44:54.
+2026-03-21T09:45:43.6368723-04:00|Trying to optimize texture 'b' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:45:48.8672799-04:00|Texture 'b' (e88193c7-25bd-430f-9bb0-9e12b8581520.ytd) file got successfully updated to 831327e7-18eb-4392-84a0-0a1093b19d74.ytd.
+2026-03-21T09:45:49.1548525-04:00|Texture S4_3453CF95_80000000_B7739F4733A8F436%%+RLE2 optimized from 483 KB to 226 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:45:49.1677585-04:00|Successfully optimized drawable texture 'b' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:45:49.3887817-04:00|Trying to optimize texture 'c' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:45:54.5939038-04:00|Texture 'c' (0240c882-7a18-4c69-83c8-4567d35ce3d4.ytd) file got successfully updated to b3c93f9c-384d-43c4-b2f7-9666e440485d.ytd.
+2026-03-21T09:45:54.8152572-04:00|Texture S4_3453CF95_80000000_C07C424738E1CB1E%%+RLE2 optimized from 436 KB to 210 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:45:54.8247856-04:00|Successfully optimized drawable texture 'c' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:45:55.0013494-04:00|Trying to optimize texture 'd' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:45:59.9482018-04:00|Texture 'd' (bf0f0b96-b637-44c6-9959-4cb02284d38b.ytd) file got successfully updated to 73483153-fe23-459b-b23a-e0f4879e74f3.ytd.
+2026-03-21T09:46:00.0547704-04:00|Texture S4_3453CF95_80000000_C07C464738E1D1CF%%+RLE2 optimized from 418 KB to 207 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:00.0872195-04:00|Successfully optimized drawable texture 'd' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:00.2647274-04:00|Trying to optimize texture 'e' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:05.0034656-04:00|Texture 'e' (069b9cab-8e20-490b-b868-892687e14cb8.ytd) file got successfully updated to c7b97d0b-27b4-419a-8340-da5292182ced.ytd.
+2026-03-21T09:46:05.1956978-04:00|Texture S4_3453CF95_80000000_C060D54738CA4A04%%+RLE2 optimized from 516 KB to 230 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:05.2040299-04:00|Successfully optimized drawable texture 'e' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:05.3996960-04:00|Trying to optimize texture 'f' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:10.0716949-04:00|Texture 'f' (15294ab0-a0a3-4c68-85ab-274e55d6b204.ytd) file got successfully updated to d67838ce-4b40-4d27-94cb-89e20019f36e.ytd.
+2026-03-21T09:46:10.2729345-04:00|Texture S4_3453CF95_80000000_C071D04738D8B4C0%%+RLE2 optimized from 474 KB to 220 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:10.2832020-04:00|Successfully optimized drawable texture 'f' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:10.4531429-04:00|Trying to optimize texture 'g' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:14.8862221-04:00|Texture 'g' (8adce141-b89a-40fc-a74e-45d0f12522ab.ytd) file got successfully updated to 74cbcf7f-a397-40f9-89ab-fdabb2c99bc3.ytd.
+2026-03-21T09:46:15.1191167-04:00|Texture S4_3453CF95_80000000_C082CA4738E71DC5%%+RLE2 optimized from 490 KB to 226 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:15.1303236-04:00|Successfully optimized drawable texture 'g' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:15.3092528-04:00|Trying to optimize texture 'h' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:19.8464227-04:00|Texture 'h' (7c3ed767-a86e-44f1-b404-ea1c58ce235f.ytd) file got successfully updated to 44cb92b9-68ff-4ed9-ba0a-76219acffdb8.ytd.
+2026-03-21T09:46:19.9711833-04:00|Texture S4_3453CF95_80000000_C97A6C473E118006%%+RLE2 optimized from 456 KB to 217 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:19.9793944-04:00|Successfully optimized drawable texture 'h' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:20.1349122-04:00|Trying to optimize texture 'i' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:24.5762813-04:00|Texture 'i' (b5c8b6ef-d9fc-4815-b805-c2c18aaee603.ytd) file got successfully updated to cbdeef63-6891-4642-a4d9-f819b9ad8502.ytd.
+2026-03-21T09:46:24.7903414-04:00|Texture S4_3453CF95_80000000_C97A70473E1186CE%%+RLE2 optimized from 457 KB to 219 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:24.7979307-04:00|Successfully optimized drawable texture 'i' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:24.9549321-04:00|Trying to optimize texture 'j' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:29.1932746-04:00|Texture 'j' (6fc37aba-342b-4df3-a9e3-00e334486e12.ytd) file got successfully updated to 08156b04-e3e2-4664-a009-4e7307412cc6.ytd.
+2026-03-21T09:46:29.3670041-04:00|Texture S4_3453CF95_80000000_C9817E473E17BD4E%%+RLE2 optimized from 453 KB to 217 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:29.3762486-04:00|Successfully optimized drawable texture 'j' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:29.5472894-04:00|Trying to optimize texture 'k' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:33.6532730-04:00|Texture 'k' (b4b5daa2-96a5-457c-8c36-033106a619a4.ytd) file got successfully updated to 0e887913-f594-4aa4-ba37-a7085bd6e48d.ytd.
+2026-03-21T09:46:33.7601314-04:00|Texture S4_3453CF95_80000000_C98869473E1DB84E%%+RLE2 optimized from 417 KB to 207 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:33.7706919-04:00|Successfully optimized drawable texture 'k' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:33.9771312-04:00|Trying to optimize texture 'l' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:38.0931071-04:00|Texture 'l' (38edcb2a-cc35-4fa3-9b01-5d7aeff57fad.ytd) file got successfully updated to bacd12eb-e6b2-4673-bc9e-86d34f9f5f8d.ytd.
+2026-03-21T09:46:38.2918176-04:00|Texture S4_3453CF95_80000000_C98870473E1DC46A%%+RLE2 optimized from 488 KB to 227 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:38.3013199-04:00|Successfully optimized drawable texture 'l' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:38.4527191-04:00|Trying to optimize texture 'm' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:42.4860778-04:00|Texture 'm' (7a3044db-2ea6-487d-8ad3-467f0292fe7c.ytd) file got successfully updated to 49906746-80fb-4430-8b43-d556a20d0636.ytd.
+2026-03-21T09:46:42.7287299-04:00|Texture S4_3453CF95_80000000_D23C1C47430E6AFA%%+RLE2 optimized from 472 KB to 224 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:42.7382415-04:00|Successfully optimized drawable texture 'm' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:42.9300761-04:00|Trying to optimize texture 'n' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:46.5359474-04:00|Texture 'n' (a9f8106f-bd83-4843-9686-1c8b5745466e.ytd) file got successfully updated to d31924a0-4848-4a68-9091-162f2e5635c4.ytd.
+2026-03-21T09:46:46.5845262-04:00|Texture S4_3453CF95_80000000_D23F24474310AE0A%%+RLE2 optimized from 472 KB to 224 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:46.5934190-04:00|Successfully optimized drawable texture 'n' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:46.7515868-04:00|Trying to optimize texture 'o' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:50.4576741-04:00|Texture 'o' (2d42da59-2d21-47e3-a299-8fa2b29c7cf7.ytd) file got successfully updated to 886ac603-4cf5-4a38-bc3e-41c0e546e954.ytd.
+2026-03-21T09:46:50.4826302-04:00|Texture S4_3453CF95_80000000_D242A0474313B6FD%%+RLE2 optimized from 449 KB to 213 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:50.4931462-04:00|Successfully optimized drawable texture 'o' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:50.7183436-04:00|Trying to optimize texture 'p' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:54.2564867-04:00|Texture 'p' (db83d8ab-5dd6-4aef-beb4-610ad45545b7.ytd) file got successfully updated to a3bd71ab-18eb-4a8c-932a-cfb68d12d912.ytd.
+2026-03-21T09:46:54.2876622-04:00|Texture S4_3453CF95_80000000_D242A0474313B6FD%%+RLE2 optimized from 465 KB to 221 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:54.2986190-04:00|Successfully optimized drawable texture 'p' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:54.4836384-04:00|Trying to optimize texture 'q' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:46:57.7976829-04:00|Texture 'q' (4e395a87-3b9c-4812-aad1-75c456610f2d.ytd) file got successfully updated to 7a795880-7926-43a6-9ab8-fc7c4e99d72c.ytd.
+2026-03-21T09:46:57.9760876-04:00|Texture S4_3453CF95_80000000_D242A4474313BDAC%%+RLE2 optimized from 450 KB to 214 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:46:57.9883053-04:00|Successfully optimized drawable texture 'q' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:46:58.1463766-04:00|Trying to optimize texture 'r' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:01.3477000-04:00|Texture 'r' (405c6ae6-880f-49fa-bbc9-4d62c947ca23.ytd) file got successfully updated to 45807db7-2d4e-43a6-ac0d-46f00dfa8184.ytd.
+2026-03-21T09:47:01.5266837-04:00|Texture S4_3453CF95_80000000_D249AA474319E64C%%+RLE2 optimized from 414 KB to 202 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:01.5361805-04:00|Successfully optimized drawable texture 'r' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:01.7077973-04:00|Trying to optimize texture 's' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:05.0641518-04:00|Texture 's' (e6d5164c-ee31-4b78-8efd-1fbf54fde1b1.ytd) file got successfully updated to 2dfad4f0-5d77-487e-a664-d527add70320.ytd.
+2026-03-21T09:47:05.2264592-04:00|Texture S4_3453CF95_80000000_D253A24743222D59%%+RLE2 optimized from 439 KB to 210 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:05.2689468-04:00|Successfully optimized drawable texture 's' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:05.4972869-04:00|Trying to optimize texture 't' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:08.6018586-04:00|Texture 't' (16cc1c8d-23be-45f8-a8b2-29959585437d.ytd) file got successfully updated to 88afe51c-5ea1-4d7c-aa4e-2d40046d0472.ytd.
+2026-03-21T09:47:08.7289863-04:00|Texture S4_3453CF95_80000000_D2501947431F0E88%%+RLE2 optimized from 432 KB to 210 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:08.7560195-04:00|Successfully optimized drawable texture 't' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:08.9105497-04:00|Trying to optimize texture 'u' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:11.7826816-04:00|Texture 'u' (9f141a93-005c-4dcf-be56-35c8443bf558.ytd) file got successfully updated to 019f6903-5e6c-4520-8eb4-60e9bbcc4721.ytd.
+2026-03-21T09:47:12.1200751-04:00|Texture S4_3453CF95_80000000_EBB090475152D262%%+RLE2 optimized from 472 KB to 220 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:12.1282007-04:00|Successfully optimized drawable texture 'u' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:12.2647158-04:00|Trying to optimize texture 'v' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:14.9455326-04:00|Texture 'v' (0dea8090-65df-470b-8051-e4e1fb0b24da.ytd) file got successfully updated to 7be80052-0c06-4cc6-a62e-388dabe81f11.ytd.
+2026-03-21T09:47:15.1448247-04:00|Texture S4_3453CF95_80000000_EBB097475152DE07%%+RLE2 optimized from 457 KB to 213 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:15.1549811-04:00|Successfully optimized drawable texture 'v' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:15.3435093-04:00|Trying to optimize texture 'w' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:18.0357954-04:00|Texture 'w' (7d14e170-dbc9-4daa-9572-5a50527a8009.ytd) file got successfully updated to 3fc303d9-f50a-4868-934c-b94753754dc5.ytd.
+2026-03-21T09:47:18.2204847-04:00|Texture S4_3453CF95_80000000_EBC824475166AC9E%%+RLE2 optimized from 511 KB to 227 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:18.2310919-04:00|Successfully optimized drawable texture 'w' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:18.4041763-04:00|Trying to optimize texture 'x' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:20.9260040-04:00|Texture 'x' (703717cb-c4e2-4549-bd5d-c1ec21b55d6a.ytd) file got successfully updated to e3f9b64b-9146-4d24-a42d-c9c10bd68e56.ytd.
+2026-03-21T09:47:21.2479928-04:00|Texture S4_3453CF95_80000000_EBCF0C47516CA2A6%%+RLE2 optimized from 506 KB to 228 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:21.2571439-04:00|Successfully optimized drawable texture 'x' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:21.4298946-04:00|Trying to optimize texture 'y' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:23.7816092-04:00|Texture 'y' (a90559ce-8956-4b01-8013-e5f733fb3bc9.ytd) file got successfully updated to 2e27600f-6a39-423b-83a8-ec32496826a9.ytd.
+2026-03-21T09:47:23.9315776-04:00|Texture S4_3453CF95_80000000_EBDC9B4751781FD8%%+RLE2 optimized from 489 KB to 225 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:23.9513174-04:00|Successfully optimized drawable texture 'y' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:24.1606612-04:00|Trying to optimize texture 'z' of 'Female 11 Bag' (Bag) at pos 11 ...
+2026-03-21T09:47:26.5496848-04:00|Texture 'z' (9c6fd614-2c4b-425c-aac7-aa1615d4833e.ytd) file got successfully updated to a9b922f1-f9c0-4d69-bcff-a7fcab7e7a19.ytd.
+2026-03-21T09:47:26.6899718-04:00|Texture S4_3453CF95_80000000_F4E1BA4756ADE0C3%%+RLE2 optimized from 475 KB to 220 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:47:26.6990094-04:00|Successfully optimized drawable texture 'z' of 'Female 11 Bag' (Bag) at pos 11
+2026-03-21T09:47:54.9688702-04:00|Successfully backed up project 2026-03-21 09:47:54.
+2026-03-21T09:48:54.9680968-04:00|Successfully backed up project 2026-03-21 09:48:54.
+2026-03-21T09:49:54.9574193-04:00|Successfully backed up project 2026-03-21 09:49:54.
+2026-03-21T09:50:54.9633196-04:00|Successfully backed up project 2026-03-21 09:50:54.
+2026-03-21T09:51:07.9350701-04:00|Trying to optimize texture 'a' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:10.7879670-04:00|Texture 'a' (cec51318-f7c7-4d44-ab92-bc014c3e3f8a.ytd) file got successfully updated to 29f18182-c22f-4e8d-9c52-e1e44b27d0a2.ytd.
+2026-03-21T09:51:10.9365612-04:00|Texture S4_3453CF95_80000000_724C4024FDEFADE2%%+RLE2 optimized from 655 KB to 289 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:10.9674574-04:00|Successfully optimized drawable texture 'a' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:11.1821607-04:00|Trying to optimize texture 'b' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:13.8161245-04:00|Texture 'b' (e9f21508-ddf2-4611-ae28-63bcb390f486.ytd) file got successfully updated to e6a221a7-9e8b-46c8-8709-5e062a928670.ytd.
+2026-03-21T09:51:13.9778563-04:00|Texture S4_3453CF95_80000000_BD402485D3345061%%+RLE2 optimized from 610 KB to 281 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:13.9881050-04:00|Successfully optimized drawable texture 'b' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:14.1721922-04:00|Trying to optimize texture 'c' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:16.4077501-04:00|Texture 'c' (2f13e82b-7c6e-4f24-a1f9-9647260af64b.ytd) file got successfully updated to df9c15eb-0170-4d38-b53d-cfb669155f50.ytd.
+2026-03-21T09:51:16.6681814-04:00|Texture S4_3453CF95_80000000_C88E72E94A945E23%%+RLE2_rle2 optimized from 591 KB to 271 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:16.6759998-04:00|Successfully optimized drawable texture 'c' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:16.8675890-04:00|Trying to optimize texture 'd' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:19.0779282-04:00|Texture 'd' (95f6c530-9a43-4239-aae6-5ede3f0985fe.ytd) file got successfully updated to 36d042fa-f6ef-4242-b210-605530cc6ca9.ytd.
+2026-03-21T09:51:19.2722423-04:00|Texture S4_3453CF95_80000000_D01B36B148CC3ABE%%+RLE2 optimized from 654 KB to 288 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:19.2798448-04:00|Successfully optimized drawable texture 'd' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:19.4596408-04:00|Trying to optimize texture 'e' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:21.6234982-04:00|Texture 'e' (48e47d84-aed2-4707-818e-ae198f7397f8.ytd) file got successfully updated to 82fd28ef-3886-4e3e-b8cc-ca01dc5f5f9d.ytd.
+2026-03-21T09:51:21.7758148-04:00|Texture S4_3453CF95_80000000_DC04E49C25B16416%%+RLE2 optimized from 677 KB to 297 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:21.7942956-04:00|Successfully optimized drawable texture 'e' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:22.0048182-04:00|Trying to optimize texture 'f' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:24.0208686-04:00|Texture 'f' (4fa90323-749f-4035-b76b-dcb935f392d3.ytd) file got successfully updated to 4c0093f5-412b-4a10-a3ec-91f9f31e3944.ytd.
+2026-03-21T09:51:24.1757936-04:00|Texture S4_3453CF95_80000000_DE96F44D23989ABC%%+RLE2 optimized from 658 KB to 293 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:24.1995107-04:00|Successfully optimized drawable texture 'f' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:24.4150389-04:00|Trying to optimize texture 'g' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:26.3235737-04:00|Texture 'g' (6e667a13-720d-4758-a77b-fb221ea300d1.ytd) file got successfully updated to f546f597-4a6f-434b-8f46-08eefe374205.ytd.
+2026-03-21T09:51:26.4654682-04:00|Texture S4_3453CF95_80000000_F04B793E052FB80D%%+RLE2 optimized from 627 KB to 280 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:26.4764156-04:00|Successfully optimized drawable texture 'g' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:26.6347983-04:00|Trying to optimize texture 'h' of 'Female 110 Top' (Top) at pos 110 ...
+2026-03-21T09:51:28.2519491-04:00|Texture 'h' (93d6939c-1b84-4825-b073-3ce71f8b3800.ytd) file got successfully updated to ae2ba621-90c0-4b60-9558-fc0c1f72432b.ytd.
+2026-03-21T09:51:28.4189528-04:00|Texture S4_3453CF95_80000000_F7D1C90C718D6351%%+RLE2 optimized from 637 KB to 283 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:51:28.4267140-04:00|Successfully optimized drawable texture 'h' of 'Female 110 Top' (Top) at pos 110
+2026-03-21T09:51:54.9723985-04:00|Successfully backed up project 2026-03-21 09:51:54.
+2026-03-21T09:52:54.9529933-04:00|Successfully backed up project 2026-03-21 09:52:54.
+2026-03-21T09:53:30.3619906-04:00|Trying to optimize texture 'a' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:33.4281100-04:00|Texture 'a' (5e43d854-d840-4ce6-8be9-dd5c595f83ea.ytd) file got successfully updated to cc3b060f-ee5b-4967-a508-e126bee1b8fc.ytd.
+2026-03-21T09:53:33.5693081-04:00|Texture S4_3453CF95_80000000_51ACA0DB7020DECD%%+RLE2_rle2 optimized from 320 KB to 201 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:33.5832682-04:00|Successfully optimized drawable texture 'a' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:33.7660313-04:00|Trying to optimize texture 'b' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:36.7104314-04:00|Texture 'b' (b2933c8e-26bd-4922-aace-f1cd37f0014a.ytd) file got successfully updated to beec55b9-0f7e-4213-9341-6bb1a086d608.ytd.
+2026-03-21T09:53:36.9505966-04:00|Texture S4_3453CF95_80000000_930C0523B3777B30%%+RLE2 optimized from 278 KB to 189 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:36.9591509-04:00|Successfully optimized drawable texture 'b' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:37.1317312-04:00|Trying to optimize texture 'c' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:39.6642023-04:00|Texture 'c' (aa7e40fe-e8dd-4723-98c1-3778bf8ed529.ytd) file got successfully updated to 5290dfae-0a2b-4414-b774-65de85dd401c.ytd.
+2026-03-21T09:53:39.8203714-04:00|Texture S4_3453CF95_80000000_9636B75364A0C63F%%+RLE2 optimized from 225 KB to 154 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:39.8434245-04:00|Successfully optimized drawable texture 'c' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:40.0662049-04:00|Trying to optimize texture 'd' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:42.4548793-04:00|Texture 'd' (7b2d0426-3183-483e-9d8b-ac0ea1b0ce23.ytd) file got successfully updated to 9a1f1736-14a2-49cc-a251-315cfb70c0f2.ytd.
+2026-03-21T09:53:42.5933495-04:00|Texture S4_3453CF95_80000000_A7FB252435A456A1%%+RLE2 optimized from 248 KB to 170 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:42.6064058-04:00|Successfully optimized drawable texture 'd' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:42.7789667-04:00|Trying to optimize texture 'e' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:45.1313796-04:00|Texture 'e' (cfa0873f-81ca-4b59-8ed7-830d087cfe79.ytd) file got successfully updated to 6b38c474-e04b-41c9-a3a2-25a3b6b3c072.ytd.
+2026-03-21T09:53:45.3825492-04:00|Texture S4_3453CF95_80000000_B401D33D743963CB%%+RLE2 optimized from 226 KB to 161 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:45.3910610-04:00|Successfully optimized drawable texture 'e' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:45.5666791-04:00|Trying to optimize texture 'f' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:47.7553269-04:00|Texture 'f' (7785103e-6aeb-474a-bea0-5d39382cfa99.ytd) file got successfully updated to a9c86b93-2119-4119-b69e-7e20c1c369ee.ytd.
+2026-03-21T09:53:47.9708988-04:00|Texture S4_3453CF95_80000000_C0F29290FDCA9872%%+RLE2 optimized from 239 KB to 167 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:47.9799863-04:00|Successfully optimized drawable texture 'f' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:48.1624945-04:00|Trying to optimize texture 'g' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:50.1939127-04:00|Texture 'g' (97347e5a-7101-4a10-ac5a-d23cb126aa32.ytd) file got successfully updated to 124b2d69-77b6-4211-bfa0-ba2f783048af.ytd.
+2026-03-21T09:53:50.3446443-04:00|Texture S4_3453CF95_80000000_C74BF2568B9D810D%%+RLE2 optimized from 244 KB to 170 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:50.4099460-04:00|Successfully optimized drawable texture 'g' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:50.5604851-04:00|Trying to optimize texture 'h' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:52.5430008-04:00|Texture 'h' (1221604f-b8ce-4821-b8fe-1827b611cde5.ytd) file got successfully updated to 962e18bb-6c1a-4174-be1f-d9f3f3188c69.ytd.
+2026-03-21T09:53:52.6733969-04:00|Texture S4_3453CF95_80000000_DA177CFD41C978B0%%+RLE2 optimized from 183 KB to 130 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:52.6961764-04:00|Successfully optimized drawable texture 'h' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:52.8783786-04:00|Trying to optimize texture 'i' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:54.7295243-04:00|Texture 'i' (a0bb2e63-4648-4ee4-902c-7a491ab01c33.ytd) file got successfully updated to 4c22799a-e90f-4ef1-a0fa-7c5a22485116.ytd.
+2026-03-21T09:53:54.8845975-04:00|Texture S4_3453CF95_80000000_E28EA0FC8C0D716B%%+RLE2 optimized from 244 KB to 170 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:54.8933805-04:00|Successfully optimized drawable texture 'i' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:53:55.3823480-04:00|Successfully backed up project 2026-03-21 09:53:55.
+2026-03-21T09:53:55.3823878-04:00|Trying to optimize texture 'j' of 'Female 110 Undershirt' (Undershirt) at pos 110 ...
+2026-03-21T09:53:57.0944903-04:00|Texture 'j' (9e03cb8f-5247-49a4-90ce-368d6c56dec1.ytd) file got successfully updated to bdf30b84-209a-46cf-ae9d-4b2928a2915c.ytd.
+2026-03-21T09:53:57.2517731-04:00|Texture S4_3453CF95_80000000_F27A2D20959A271B%%+RLE2 optimized from 291 KB to 196 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:53:57.2607839-04:00|Successfully optimized drawable texture 'j' of 'Female 110 Undershirt' (Undershirt) at pos 110
+2026-03-21T09:54:15.9799866-04:00|Trying to optimize texture 'a' of 'Female 111 Top' (Top) at pos 111 ...
+2026-03-21T09:54:17.4192812-04:00|Texture 'a' (286de2ac-711e-448f-8aad-455fc6fb0fb3.ytd) file got successfully updated to d4a92459-08e6-433a-90f9-c9ea0b4b2a14.ytd.
+2026-03-21T09:54:17.5416928-04:00|Texture S4_3453CF95_80000000_682D8DB3C34CE30E%%+RLE2_rle2 optimized from 398 KB to 193 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:54:17.5675978-04:00|Successfully optimized drawable texture 'a' of 'Female 111 Top' (Top) at pos 111
+2026-03-21T09:54:54.9792863-04:00|Successfully backed up project 2026-03-21 09:54:54.
+2026-03-21T09:55:47.6757253-04:00|Trying to optimize texture 'a' of 'Female 113 Top' (Top) at pos 113 ...
+2026-03-21T09:55:49.1912655-04:00|Texture 'a' (b4bc4810-a55d-4004-ac4a-78f2070cb364.ytd) file got successfully updated to 04d106cf-3947-4f08-a069-0dc44e7102a7.ytd.
+2026-03-21T09:55:49.5258702-04:00|Texture S4_3453CF95_80000000_D1F8E10E58A7F164%%+RLE2_rle2 optimized from 239 KB to 148 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:55:49.5586667-04:00|Successfully optimized drawable texture 'a' of 'Female 113 Top' (Top) at pos 113
+2026-03-21T09:55:55.0418695-04:00|Successfully backed up project 2026-03-21 09:55:55.
+2026-03-21T09:56:08.5487536-04:00|Trying to optimize texture 'a' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:11.6680192-04:00|Texture 'a' (623edf61-ed5b-444d-a96f-5cc2b4c0ad0d.ytd) file got successfully updated to bbf02f31-7d53-46d0-b001-69467d9021cd.ytd.
+2026-03-21T09:56:11.8089489-04:00|Texture 01 optimized from 387 KB to 235 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:11.9011604-04:00|Successfully optimized drawable texture 'a' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:12.0773398-04:00|Trying to optimize texture 'b' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:14.8723775-04:00|Texture 'b' (986c1deb-2649-46a5-ac2c-88e8e5b92112.ytd) file got successfully updated to df64cff1-9fee-4cbb-adb7-c508b1873d3a.ytd.
+2026-03-21T09:56:15.0245415-04:00|Texture 02 optimized from 377 KB to 225 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:15.0331384-04:00|Successfully optimized drawable texture 'b' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:15.2104415-04:00|Trying to optimize texture 'c' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:17.7602943-04:00|Texture 'c' (1e926f9a-bd87-4dd0-b396-7efb9ae1b5dc.ytd) file got successfully updated to 8996b626-86ca-402c-86ff-6af283a2f5a5.ytd.
+2026-03-21T09:56:17.9021864-04:00|Texture 03 optimized from 373 KB to 230 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:17.9246670-04:00|Successfully optimized drawable texture 'c' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:18.0943066-04:00|Trying to optimize texture 'd' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:20.4933990-04:00|Texture 'd' (3c2d65a8-606f-4803-abce-891198a7c4b2.ytd) file got successfully updated to 7872d3a3-1c91-4e0b-b94a-4381e544902a.ytd.
+2026-03-21T09:56:20.7349969-04:00|Texture 04 optimized from 386 KB to 235 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:20.7437278-04:00|Successfully optimized drawable texture 'd' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:20.9294321-04:00|Trying to optimize texture 'e' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:23.2706567-04:00|Texture 'e' (f2a25d21-9220-4142-a871-18507d7431cf.ytd) file got successfully updated to 4a96c524-f7df-457b-9bbe-9b85abc17cfc.ytd.
+2026-03-21T09:56:23.4319384-04:00|Texture 05 optimized from 358 KB to 222 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:23.4497967-04:00|Successfully optimized drawable texture 'e' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:23.6521272-04:00|Trying to optimize texture 'f' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:25.8987324-04:00|Texture 'f' (4d68c65b-6c98-4931-a6e1-8e64abbf3edd.ytd) file got successfully updated to 721e80ad-30f7-4a7c-a93e-558d1da6acc9.ytd.
+2026-03-21T09:56:26.0671634-04:00|Texture 06 optimized from 386 KB to 230 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:26.0762477-04:00|Successfully optimized drawable texture 'f' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:26.2585744-04:00|Trying to optimize texture 'g' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:28.3591056-04:00|Texture 'g' (7f781abf-701a-4690-854a-1b5817bde9a8.ytd) file got successfully updated to d56c859b-70b1-419e-aed1-2ed40d7dc565.ytd.
+2026-03-21T09:56:28.4969155-04:00|Texture 07 optimized from 397 KB to 234 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:28.5334698-04:00|Successfully optimized drawable texture 'g' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:28.7166933-04:00|Trying to optimize texture 'h' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:30.6445197-04:00|Texture 'h' (7edb7e1d-e7d7-493d-ba7d-2d523b1c05f2.ytd) file got successfully updated to 5e04a945-e78a-4949-980b-51b6f9a8752a.ytd.
+2026-03-21T09:56:30.7822786-04:00|Texture 08 optimized from 347 KB to 220 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:30.8043589-04:00|Successfully optimized drawable texture 'h' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:31.0058510-04:00|Trying to optimize texture 'i' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:33.0133721-04:00|Texture 'i' (ca952fbf-b851-4d9a-8115-26bc6adcd65c.ytd) file got successfully updated to abbd60d8-a20b-43bb-9aa1-9196674ba585.ytd.
+2026-03-21T09:56:33.1526076-04:00|Texture 09 optimized from 426 KB to 239 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:33.1749586-04:00|Successfully optimized drawable texture 'i' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:33.3364382-04:00|Trying to optimize texture 'j' of 'Female 116 Top' (Top) at pos 116 ...
+2026-03-21T09:56:35.2204902-04:00|Texture 'j' (80bc979b-2400-45af-bffc-b7d70e61ab93.ytd) file got successfully updated to 1967b44c-3640-4ba3-bea0-dd055cde2701.ytd.
+2026-03-21T09:56:35.3942349-04:00|Texture 10 optimized from 351 KB to 221 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:35.4037125-04:00|Successfully optimized drawable texture 'j' of 'Female 116 Top' (Top) at pos 116
+2026-03-21T09:56:49.5522837-04:00|Trying to optimize texture 'a' of 'Female 117 Undershirt' (Undershirt) at pos 117 ...
+2026-03-21T09:56:51.6896872-04:00|Texture 'a' (755428f3-5312-48a4-b24c-5684b6f4c455.ytd) file got successfully updated to 8f0c90ce-dc5a-4e71-b2da-7a124fc8cc63.ytd.
+2026-03-21T09:56:51.8552773-04:00|Texture S4_3453CF95_80000000_B1AA2D63856F6436%%+RLE2 optimized from 364 KB to 229 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:51.8688262-04:00|Successfully optimized drawable texture 'a' of 'Female 117 Undershirt' (Undershirt) at pos 117
+2026-03-21T09:56:52.0406098-04:00|Trying to optimize texture 'b' of 'Female 117 Undershirt' (Undershirt) at pos 117 ...
+2026-03-21T09:56:53.7079564-04:00|Texture 'b' (99e80b55-039b-4b0b-8d09-c7b6e90016d8.ytd) file got successfully updated to e1bdea7b-9d2f-4560-b44f-4edbf103bfc4.ytd.
+2026-03-21T09:56:53.8900820-04:00|Texture S4_3453CF95_80000000_B5BF295DB38C1058%%+RLE2_rle2 optimized from 684 KB to 335 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:53.9318908-04:00|Successfully optimized drawable texture 'b' of 'Female 117 Undershirt' (Undershirt) at pos 117
+2026-03-21T09:56:54.1258582-04:00|Trying to optimize texture 'c' of 'Female 117 Undershirt' (Undershirt) at pos 117 ...
+2026-03-21T09:56:55.6213355-04:00|Texture 'c' (31789e5b-d71e-4713-9c5e-9d66cbc1e49d.ytd) file got successfully updated to 57a87659-4afb-4aca-aa28-cf224a667115.ytd.
+2026-03-21T09:56:55.7865661-04:00|Texture S4_3453CF95_80000000_FCFA1785E51A092F%%+RLE2 optimized from 639 KB to 324 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:56:55.8062952-04:00|Successfully optimized drawable texture 'c' of 'Female 117 Undershirt' (Undershirt) at pos 117
+2026-03-21T09:57:19.3894243-04:00|Trying to optimize texture 'c' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:22.4452152-04:00|Texture 'c' (71ddf813-520f-45be-ab9f-e7b941dc1049.ytd) file got successfully updated to 638c3ec9-06dd-4265-bdb7-08d7c03470e1.ytd.
+2026-03-21T09:57:22.6306641-04:00|Texture University Blue optimized from 3 MB to 476 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:22.6405743-04:00|Successfully optimized drawable texture 'c' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:22.7874019-04:00|Trying to optimize texture 'a' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:25.3707444-04:00|Texture 'a' (f78ded30-6cba-476f-aaef-92db3538ecef.ytd) file got successfully updated to 0373e3da-ea60-4b63-9fc2-254e546287ad.ytd.
+2026-03-21T09:57:25.4195498-04:00|Texture Thunder optimized from 2 MB to 256 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:25.4289403-04:00|Successfully optimized drawable texture 'a' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:25.5703314-04:00|Trying to optimize texture 'b' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:28.0034179-04:00|Texture 'b' (f29b8102-f094-4a01-96d6-804d6bf4e02b.ytd) file got successfully updated to 667aefb7-e94d-4d05-87a7-d5df8dddcc71.ytd.
+2026-03-21T09:57:28.1373277-04:00|Texture White Cement optimized from 3 MB to 463 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:28.1455981-04:00|Successfully optimized drawable texture 'b' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:28.2924854-04:00|Trying to optimize texture 'd' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:30.5878925-04:00|Texture 'd' (d44be398-c929-42a1-80c9-bfde62054481.ytd) file got successfully updated to cbe45523-55c5-4ba9-ab72-889ffe84f9ac.ytd.
+2026-03-21T09:57:30.6450533-04:00|Texture Toro Bravo optimized from 3 MB to 368 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:30.6538606-04:00|Successfully optimized drawable texture 'd' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:30.7986271-04:00|Trying to optimize texture 'e' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:32.9417248-04:00|Texture 'e' (a45bd068-a984-4bbd-8200-ee079939af31.ytd) file got successfully updated to f755b7e9-8b36-464c-bfae-c47130f22435.ytd.
+2026-03-21T09:57:33.1029476-04:00|Texture Teal optimized from 2 MB to 351 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:33.1111062-04:00|Successfully optimized drawable texture 'e' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:33.2363778-04:00|Trying to optimize texture 'f' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:35.3887029-04:00|Texture 'f' (c48f6bb1-4722-436e-814a-b60e901c1cdd.ytd) file got successfully updated to 099d5963-fd5e-4181-9a23-db7708d4d2cc.ytd.
+2026-03-21T09:57:35.4335727-04:00|Texture Red Thunder optimized from 1 MB to 240 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:35.4416157-04:00|Successfully optimized drawable texture 'f' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:35.6210442-04:00|Trying to optimize texture 'g' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:37.5596241-04:00|Texture 'g' (51d407e1-5c95-4ea7-bdfb-179b3e22411c.ytd) file got successfully updated to 42ef3167-33af-4b56-b2ab-29ba9d9b6e1d.ytd.
+2026-03-21T09:57:37.6823153-04:00|Texture Raptors optimized from 2 MB to 268 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:37.6926427-04:00|Successfully optimized drawable texture 'g' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:37.8405032-04:00|Trying to optimize texture 'h' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:39.6481426-04:00|Texture 'h' (53409b42-7ba3-4c25-a9c2-7c2e73f8ce05.ytd) file got successfully updated to a4d7a705-69f3-422b-bb62-6ab4b0cd1183.ytd.
+2026-03-21T09:57:39.7008279-04:00|Texture Military Blue optimized from 3 MB to 485 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:39.7095376-04:00|Successfully optimized drawable texture 'h' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:39.8869233-04:00|Trying to optimize texture 'i' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:41.6252744-04:00|Texture 'i' (a5f3bce2-83ef-46d8-bf6d-e2ced4530367.ytd) file got successfully updated to 307decdb-ed96-42ee-8aeb-ec8207340f90.ytd.
+2026-03-21T09:57:41.7742530-04:00|Texture Military Black optimized from 3 MB to 476 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:41.7948913-04:00|Successfully optimized drawable texture 'i' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:41.9537496-04:00|Trying to optimize texture 'j' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:43.4877508-04:00|Texture 'j' (825734a1-bae2-41f4-b7aa-6005f028b459.ytd) file got successfully updated to 5ed9dc67-62f9-4aba-9aac-7de80bc09a28.ytd.
+2026-03-21T09:57:43.5422403-04:00|Texture Midnight Navy optimized from 3 MB to 490 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:43.5527897-04:00|Successfully optimized drawable texture 'j' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:43.6880606-04:00|Trying to optimize texture 'k' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:45.1519328-04:00|Texture 'k' (bb46c6d8-2023-48a5-8855-6ebc536b258d.ytd) file got successfully updated to 217ebc5c-4a25-4d06-8758-02aea2bf0099.ytd.
+2026-03-21T09:57:45.1663153-04:00|Texture Green Glow optimized from 3 MB to 388 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:45.1750316-04:00|Successfully optimized drawable texture 'k' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:45.3156362-04:00|Trying to optimize texture 'l' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:46.6345041-04:00|Texture 'l' (8fba183d-b875-4a3e-b351-ba7e6599865f.ytd) file got successfully updated to 4c72c082-aafb-4972-abdd-d6b16a379393.ytd.
+2026-03-21T09:57:46.6599406-04:00|Texture Cool Grey optimized from 2 MB to 367 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:46.6680830-04:00|Successfully optimized drawable texture 'l' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:46.8082032-04:00|Trying to optimize texture 'm' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:47.8953048-04:00|Texture 'm' (2468906f-c364-423c-be3f-b3fba8a6cc2c.ytd) file got successfully updated to bcc14f2a-bbea-4b3f-b3b1-c1aa9fe0d82c.ytd.
+2026-03-21T09:57:47.9120754-04:00|Texture Canyon Purple optimized from 3 MB to 374 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:47.9739894-04:00|Successfully optimized drawable texture 'm' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:48.1522000-04:00|Trying to optimize texture 'n' of 'Female 13 Shoes' (Shoes) at pos 13 ...
+2026-03-21T09:57:49.1510068-04:00|Texture 'n' (61c73a70-a475-45a5-acaa-1f2bf4b08730.ytd) file got successfully updated to 1017bc19-9a1c-489a-b212-b39780b98b51.ytd.
+2026-03-21T09:57:49.1876667-04:00|Texture Black Cat optimized from 979 KB to 162 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T09:57:49.1974494-04:00|Successfully optimized drawable texture 'n' of 'Female 13 Shoes' (Shoes) at pos 13
+2026-03-21T09:57:55.2330556-04:00|Successfully backed up project 2026-03-21 09:57:55.
+2026-03-21T09:58:17.3624653-04:00|Trying to optimize texture 'c' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:20.1115851-04:00|Texture 'c' (249dbeb7-24ab-4a41-b6d7-8cdf40dc6128.ytd) file got successfully updated to bffca04c-baea-479a-ab21-a88aa54ed378.ytd.
+2026-03-21T09:58:20.3360230-04:00|Texture S4_3453CF95_80000000_802A69F588B9B7AB%%+RLE2 optimized from 887 KB to 433 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:20.3557081-04:00|Successfully optimized drawable texture 'c' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:20.5431543-04:00|Trying to optimize texture 'a' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:23.1847586-04:00|Texture 'a' (1895575f-d237-45e8-83e2-a8fbd07450b9.ytd) file got successfully updated to 0188859e-b180-469b-a3b5-c3b42fe911e3.ytd.
+2026-03-21T09:58:23.3393736-04:00|Texture 1 optimized from 1 MB to 510 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:23.3675704-04:00|Successfully optimized drawable texture 'a' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:23.5778232-04:00|Trying to optimize texture 'b' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:25.9560476-04:00|Texture 'b' (fddd210a-1ceb-4686-bcc7-75febbf3ea4c.ytd) file got successfully updated to 6b7dbb59-c7dd-4e07-9dfe-9020e22d755a.ytd.
+2026-03-21T09:58:26.1168998-04:00|Texture S4_3453CF95_80000000_8B11DCFEE884FA54%%+RLE2 optimized from 998 KB to 480 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:26.1575114-04:00|Successfully optimized drawable texture 'b' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:26.3533864-04:00|Trying to optimize texture 'd' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:28.6083682-04:00|Texture 'd' (d5596191-0b36-4925-9212-ba6e4e4c5f2a.ytd) file got successfully updated to f362a9e7-f384-4d5d-a647-2dbf5ed6b5c4.ytd.
+2026-03-21T09:58:28.7536273-04:00|Texture S4_3453CF95_80000000_93588796B289C808%%+RLE2 optimized from 1 MB to 493 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:28.9632946-04:00|Successfully optimized drawable texture 'd' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:29.1171381-04:00|Trying to optimize texture 'e' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:31.2250899-04:00|Texture 'e' (8e809127-8798-403f-874a-6e3b3a968faa.ytd) file got successfully updated to 0c739cf7-9f64-42a9-8b0d-6baea55d620b.ytd.
+2026-03-21T09:58:31.3805399-04:00|Texture S4_3453CF95_80000000_A41DAE03C4571C41%%+RLE2 optimized from 1 MB to 493 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:31.4026115-04:00|Successfully optimized drawable texture 'e' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:31.6172670-04:00|Trying to optimize texture 'f' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:33.7023196-04:00|Texture 'f' (a90d5cbb-4954-47da-8aaa-8d4a103603b4.ytd) file got successfully updated to 2ef5dae8-d9d7-4586-9df1-ca5574320e32.ytd.
+2026-03-21T09:58:33.8585085-04:00|Texture S4_3453CF95_80000000_AEEDC86EBEFEFDD7%%+RLE2_rle2 optimized from 1 MB to 483 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:33.8736442-04:00|Successfully optimized drawable texture 'f' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:34.0503223-04:00|Trying to optimize texture 'g' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:36.0225934-04:00|Texture 'g' (445105c1-33f3-4a24-8ef2-8b7c5171e37f.ytd) file got successfully updated to ec90ddce-2478-4846-904c-0254b1c40b5d.ytd.
+2026-03-21T09:58:36.1951396-04:00|Texture S4_3453CF95_80000000_B1DD7ED54AF63FA0%%+RLE2 optimized from 1018 KB to 485 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:36.2228967-04:00|Successfully optimized drawable texture 'g' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:36.4340926-04:00|Trying to optimize texture 'h' of 'Female 14 Legs' (Legs) at pos 14 ...
+2026-03-21T09:58:38.1731488-04:00|Texture 'h' (d162dd16-520d-4403-a387-85cbf11b11e1.ytd) file got successfully updated to 7fc86348-7d81-4f05-aaff-dfe11b93fa6d.ytd.
+2026-03-21T09:58:38.3468378-04:00|Texture S4_3453CF95_80000000_B11902FE00422D74%%+RLE2 optimized from 965 KB to 451 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T09:58:38.3745361-04:00|Successfully optimized drawable texture 'h' of 'Female 14 Legs' (Legs) at pos 14
+2026-03-21T09:58:54.9704628-04:00|Successfully backed up project 2026-03-21 09:58:54.
+2026-03-21T09:59:18.7306193-04:00|Trying to optimize texture 'f' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:19.2372666-04:00|Texture 'f' (8f717de2-79cb-4f6c-ac83-98afcdb50af0.ytd) file got successfully updated to e4b5b7d5-d2f8-4cd2-b701-f1d64dd26eff.ytd.
+2026-03-21T09:59:19.2894529-04:00|Texture teef_diff_001_f_uni optimized from 49 KB to 34 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 1 => 9
+2026-03-21T09:59:19.3226618-04:00|Successfully optimized drawable texture 'f' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:19.5826367-04:00|Trying to optimize texture 'a' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:20.1155385-04:00|Texture 'a' (44ee0b53-7f5e-4e86-b7bf-5a913adfeac9.ytd) file got successfully updated to c033f940-c2ca-4deb-a550-69f5eac31326.ytd.
+2026-03-21T09:59:20.1698227-04:00|Texture 1 optimized from 205 KB to 32 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 5 => 9
+2026-03-21T09:59:20.1791228-04:00|Successfully optimized drawable texture 'a' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:20.2073755-04:00|Trying to optimize texture 'b' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:20.5081170-04:00|Texture 'b' (f294f275-f35a-4787-b50b-ff3a744cde13.ytd) file got successfully updated to 22dff79b-9722-45a9-9104-db988d68f5cd.ytd.
+2026-03-21T09:59:20.5539253-04:00|Texture 2 optimized from 43 KB to 33 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 1 => 9
+2026-03-21T09:59:20.5737419-04:00|Successfully optimized drawable texture 'b' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:20.6593872-04:00|Trying to optimize texture 'c' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:21.0032581-04:00|Texture 'c' (1732960e-6313-4d8d-a2ed-df4a03e86d61.ytd) file got successfully updated to e95327d5-3e5b-417f-baa3-b002a6015e06.ytd.
+2026-03-21T09:59:21.0466317-04:00|Texture teef_diff_001_c_uni optimized from 48 KB to 34 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 1 => 9
+2026-03-21T09:59:21.0889259-04:00|Successfully optimized drawable texture 'c' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:21.1245978-04:00|Trying to optimize texture 'd' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:21.4098022-04:00|Texture 'd' (8de0f635-6993-4cca-b093-2205a3a809a2.ytd) file got successfully updated to 565d6526-fc47-43c0-963d-1f7d2f75945f.ytd.
+2026-03-21T09:59:21.4965710-04:00|Texture 4 optimized from 48 KB to 34 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 1 => 9
+2026-03-21T09:59:21.5089016-04:00|Successfully optimized drawable texture 'd' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:21.5607651-04:00|Trying to optimize texture 'e' of 'Female 17 Accessories' (Accessories) at pos 17 ...
+2026-03-21T09:59:21.8546225-04:00|Texture 'e' (60cb2dcf-fa2a-4b4f-87c1-4393fe10beda.ytd) file got successfully updated to 36e1133f-87af-4623-8568-5ba08e5e1243.ytd.
+2026-03-21T09:59:21.9012962-04:00|Texture teef_diff_001_e_uni optimized from 48 KB to 34 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 1 => 9
+2026-03-21T09:59:21.9095171-04:00|Successfully optimized drawable texture 'e' of 'Female 17 Accessories' (Accessories) at pos 17
+2026-03-21T09:59:57.5562950-04:00|Trying to optimize texture 'a' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:01.0762399-04:00|Texture 'a' (b3abe388-54e7-4fe9-b9d2-b30082768081.ytd) file got successfully updated to c707c775-4499-497b-bc80-2c9b0679279c.ytd.
+2026-03-21T10:00:01.2192320-04:00|Texture S4_3453CF95_80000000_8F6D24DF8C17AC30%%+RLE2 optimized from 867 KB to 412 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:01.2420567-04:00|Successfully optimized drawable texture 'a' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:01.4016662-04:00|Trying to optimize texture 'b' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:04.4465769-04:00|Texture 'b' (991670e6-5e80-4e4d-afac-6557b9bf9133.ytd) file got successfully updated to 8be749b4-3064-4d47-9f3b-6bfdfc09df6b.ytd.
+2026-03-21T10:00:04.7386082-04:00|Texture S4_3453CF95_80000000_9E9C7DE81E97290C%%+RLE2 optimized from 806 KB to 385 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:04.7483127-04:00|Successfully optimized drawable texture 'b' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:04.8811172-04:00|Trying to optimize texture 'c' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:07.7454372-04:00|Texture 'c' (1e5b91b7-e469-49c0-bc41-4d38e3dfeb8a.ytd) file got successfully updated to 65b1bf95-9921-4522-a96d-381a8070e522.ytd.
+2026-03-21T10:00:08.0291260-04:00|Texture S4_3453CF95_80000000_81B625F3AE5B4743%%+RLE2 optimized from 568 KB to 345 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:08.0383920-04:00|Successfully optimized drawable texture 'c' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:08.2170759-04:00|Trying to optimize texture 'd' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:11.0660694-04:00|Texture 'd' (6355b9c1-3d98-46ac-bdab-a1326b55b199.ytd) file got successfully updated to 72a136d7-aff4-482f-b538-a72609364c7e.ytd.
+2026-03-21T10:00:11.2288220-04:00|Texture S4_3453CF95_80000000_875E0DE1C18A6C7B%%+RLE2 optimized from 855 KB to 408 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:11.2642627-04:00|Successfully optimized drawable texture 'd' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:11.4537482-04:00|Trying to optimize texture 'e' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:14.0693350-04:00|Texture 'e' (568e86c9-5c12-443d-a969-b812d7367bc8.ytd) file got successfully updated to 63744fe6-c1ac-4b47-ae78-9fc198f87f58.ytd.
+2026-03-21T10:00:14.2131980-04:00|Texture S4_3453CF95_80000000_960F3CD765CCE1FB%%+RLE2 optimized from 818 KB to 404 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:14.2350478-04:00|Successfully optimized drawable texture 'e' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:14.4740824-04:00|Trying to optimize texture 'f' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:17.1156026-04:00|Texture 'f' (6e5962fc-3855-4213-8765-7d297388d3aa.ytd) file got successfully updated to 22d2cad0-8b42-482e-b875-b930f545ed0e.ytd.
+2026-03-21T10:00:17.3538637-04:00|Texture S4_3453CF95_80000000_6224A369F30B334F%%+RLE2 optimized from 826 KB to 385 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:17.3629312-04:00|Successfully optimized drawable texture 'f' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:17.5022705-04:00|Trying to optimize texture 'g' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:19.9245188-04:00|Texture 'g' (1a76804d-eec6-4a90-82a2-c8338086db4b.ytd) file got successfully updated to 61a4fc7b-33ba-4516-a59b-0da0cb7f6690.ytd.
+2026-03-21T10:00:20.0712902-04:00|Texture S4_3453CF95_80000000_982454A79EC3D12A%%+RLE2 optimized from 678 KB to 326 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:20.0801528-04:00|Successfully optimized drawable texture 'g' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:20.2491246-04:00|Trying to optimize texture 'h' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:22.5916584-04:00|Texture 'h' (a5d88636-1eda-4e19-8b70-0d5aefb0d86b.ytd) file got successfully updated to 29f57b89-a72b-4915-8c38-2c38ebcdab33.ytd.
+2026-03-21T10:00:22.7672463-04:00|Texture S4_3453CF95_80000000_C3E59BA70A162225%%+RLE2 optimized from 793 KB to 392 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:22.7766691-04:00|Successfully optimized drawable texture 'h' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:22.9564646-04:00|Trying to optimize texture 'i' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:25.2067387-04:00|Texture 'i' (701d0641-3a53-4b56-bfdf-a86d6115f7dc.ytd) file got successfully updated to 786f8c01-2287-4be4-b804-51e41c48b938.ytd.
+2026-03-21T10:00:25.3568892-04:00|Texture S4_3453CF95_80000000_CB82061983EC0133%%+RLE2 optimized from 672 KB to 332 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:25.3759088-04:00|Successfully optimized drawable texture 'i' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:25.5948252-04:00|Trying to optimize texture 'j' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:27.6640814-04:00|Texture 'j' (47a590b7-1053-474c-bc17-050e431cca08.ytd) file got successfully updated to b26835fe-1316-4467-ab89-5234705c7fbf.ytd.
+2026-03-21T10:00:27.8089338-04:00|Texture S4_3453CF95_80000000_E608AC2DCE18264A%%+RLE2 optimized from 625 KB to 353 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:27.8358386-04:00|Successfully optimized drawable texture 'j' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:28.0189121-04:00|Trying to optimize texture 'k' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:30.0193679-04:00|Texture 'k' (213f4ebf-6079-485c-a13d-65c04ef0e47b.ytd) file got successfully updated to 58151e35-4967-4362-ad68-b7ce3a1c76c3.ytd.
+2026-03-21T10:00:30.2606470-04:00|Texture S4_3453CF95_80000000_EFAB246F6361A0E1%%+RLE2 optimized from 683 KB to 368 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:30.2687995-04:00|Successfully optimized drawable texture 'k' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:30.4387026-04:00|Trying to optimize texture 'l' of 'Female 23 Top' (Top) at pos 23 ...
+2026-03-21T10:00:32.2620871-04:00|Texture 'l' (241f5e6a-6b60-412f-9ee9-a8fd27432f4c.ytd) file got successfully updated to 1cdb7a05-3138-4663-a1fc-8f6ae204ee38.ytd.
+2026-03-21T10:00:32.3167089-04:00|Texture S4_3453CF95_80000000_F433BAC3E83D8BE3%%+RLE2 optimized from 955 KB to 420 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:00:32.3397027-04:00|Successfully optimized drawable texture 'l' of 'Female 23 Top' (Top) at pos 23
+2026-03-21T10:00:54.9904173-04:00|Successfully backed up project 2026-03-21 10:00:54.
+2026-03-21T10:01:54.9591105-04:00|Successfully backed up project 2026-03-21 10:01:54.
+2026-03-21T10:02:54.9662727-04:00|Successfully backed up project 2026-03-21 10:02:54.
+2026-03-21T10:03:54.9608144-04:00|Successfully backed up project 2026-03-21 10:03:54.
+2026-03-21T10:04:54.9640368-04:00|Successfully backed up project 2026-03-21 10:04:54.
+2026-03-21T10:05:19.6965481-04:00|Trying to optimize texture 'a' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:21.5010901-04:00|Texture 'a' (fccfc4bd-d153-47c1-9228-c3582a4a56c7.ytd) file got successfully updated to 8c6d26b8-5967-4c35-875a-3fac00dc4801.ytd.
+2026-03-21T10:05:21.6501821-04:00|Texture jbib_diff_003_a_uni optimized from 913 KB to 358 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:21.6848115-04:00|Successfully optimized drawable texture 'a' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:21.8693441-04:00|Trying to optimize texture 'b' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:23.5093388-04:00|Texture 'b' (186dd7b4-3053-4daf-966c-7b558222494c.ytd) file got successfully updated to afe94bb0-0569-4edf-8a8e-6bf4ac202074.ytd.
+2026-03-21T10:05:23.6559164-04:00|Texture jbib_diff_003_b_uni optimized from 1 MB to 460 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:23.6665948-04:00|Successfully optimized drawable texture 'b' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:23.8284946-04:00|Trying to optimize texture 'c' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:25.1580240-04:00|Texture 'c' (56ccc364-6a9a-4e7f-866e-a6e371298d06.ytd) file got successfully updated to 8c8be8f6-ddeb-4e98-9ead-b9c5eb0eb3f6.ytd.
+2026-03-21T10:05:25.3379730-04:00|Texture jbib_diff_003_c_uni optimized from 1 MB to 465 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:25.3489376-04:00|Successfully optimized drawable texture 'c' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:25.5402126-04:00|Trying to optimize texture 'd' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:26.7706108-04:00|Texture 'd' (ded686e3-90aa-473f-bbd7-53caf8298060.ytd) file got successfully updated to fc98e797-3752-4f94-aa26-878a307abd4a.ytd.
+2026-03-21T10:05:27.0197008-04:00|Texture jbib_diff_003_d_uni optimized from 1 MB to 484 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:27.0279667-04:00|Successfully optimized drawable texture 'd' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:27.1931861-04:00|Trying to optimize texture 'e' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:28.3743553-04:00|Texture 'e' (baf9bb7c-6c77-44b7-813b-17313f783c9f.ytd) file got successfully updated to 42f201c3-623d-4225-8233-bb2fbb2117a8.ytd.
+2026-03-21T10:05:28.6857576-04:00|Texture jbib_diff_003_e_uni optimized from 1 MB to 467 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:28.6973593-04:00|Successfully optimized drawable texture 'e' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:28.8092254-04:00|Trying to optimize texture 'f' of 'Female 3 Armor' (Armor) at pos 3 ...
+2026-03-21T10:05:29.9159593-04:00|Texture 'f' (28003207-092c-46a1-bf22-6d97364251a6.ytd) file got successfully updated to b8fe7c02-c515-4747-ba04-b26e0f5e7b6e.ytd.
+2026-03-21T10:05:30.2163312-04:00|Texture CP optimized from 313 KB to 435 KB, format D3DFMT_DXT1 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:05:30.2248132-04:00|Successfully optimized drawable texture 'f' of 'Female 3 Armor' (Armor) at pos 3
+2026-03-21T10:05:40.4684462-04:00|Trying to optimize texture 'a' of 'Female 3 Top' (Top) at pos 3 ...
+2026-03-21T10:05:42.1325600-04:00|Texture 'a' (8784eda4-f1d0-4776-99b6-e9baab81fce8.ytd) file got successfully updated to cd3c17b3-d9d8-4fec-86be-8dcd4cbde4c0.ytd.
+2026-03-21T10:05:42.2717656-04:00|Texture S4_3453CF95_80000000_03FF054A3830E0EF%%+RLE2 optimized from 1 MB to 586 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:05:42.2970261-04:00|Successfully optimized drawable texture 'a' of 'Female 3 Top' (Top) at pos 3
+2026-03-21T10:05:54.9817457-04:00|Successfully backed up project 2026-03-21 10:05:54.
+2026-03-21T10:06:18.1365956-04:00|Trying to optimize embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^feet_031_u.ydd 'Female 31 Shoes' (Shoes) at pos 31 => c10ea22b-0e35-4190-8f7f-9794cc0b2ee6.ydd' ...
+2026-03-21T10:06:25.7532414-04:00|Drawable 'Female 31 Shoes' (Shoes) at pos 31 (c10ea22b-0e35-4190-8f7f-9794cc0b2ee6.ydd) file got successfully updated to 54ed9947-0a67-4dba-af32-9481d7c68386.ydd.
+2026-03-21T10:06:43.5343878-04:00|Drawable 'Female 31 Shoes' (Shoes) at pos 31 (54ed9947-0a67-4dba-af32-9481d7c68386.ydd) file got successfully updated to cd546d01-e463-4875-99a4-6cef4f27e8d0.ydd.
+2026-03-21T10:06:43.9267422-04:00|Texture hair_spec_001 optimized from 25 MB to 22 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4px/4px => 2px/2px, mip maps 1 => 1
+2026-03-21T10:06:43.9395373-04:00|Texture MIX__1___1__(1) optimized from 25 MB to 22 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 3840px/2160px => 1920px/1080px, mip maps 12 => 9
+2026-03-21T10:06:43.9669587-04:00|Texture NormalMap_(1) optimized from 25 MB to 22 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 3840px/2160px => 1920px/1080px, mip maps 12 => 9
+2026-03-21T10:06:43.9797731-04:00|Successfully optimized embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^feet_031_u.ydd 'Female 31 Shoes' (Shoes) at pos 31 => cd546d01-e463-4875-99a4-6cef4f27e8d0.ydd'
+2026-03-21T10:06:54.9785676-04:00|Successfully backed up project 2026-03-21 10:06:54.
+2026-03-21T10:07:39.6399163-04:00|Removed 'Shoes' (See logs for full details). Total items: 1708
+2026-03-21T10:07:51.2630034-04:00|Trying to optimize embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^lowr_035_u.ydd 'Female 35 Legs' (Legs) at pos 35 => e252a197-0afe-4520-bdf7-e6a8bab8a5e1.ydd' ...
+2026-03-21T10:07:57.9457516-04:00|Failed to load image data for DDS conversion
+2026-03-21T10:07:58.5533878-04:00|Drawable 'Female 35 Legs' (Legs) at pos 35 (e252a197-0afe-4520-bdf7-e6a8bab8a5e1.ydd) file got successfully updated to 479dd3bd-48ef-4c12-91ba-b5a827e2fd34.ydd.
+2026-03-21T10:07:59.3927679-04:00|Drawable 'Female 35 Legs' (Legs) at pos 35 (479dd3bd-48ef-4c12-91ba-b5a827e2fd34.ydd) file got successfully updated to ef7eb27d-802a-47ef-98ea-f2059e70b994.ydd.
+2026-03-21T10:07:59.4463687-04:00|Texture jeans spec optimized from 2 MB to 377 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 128px/64px => 64px/32px, mip maps 8 => 4
+2026-03-21T10:07:59.4739562-04:00|Texture jeans normals optimized from 2 MB to 377 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 128px/128px => 1024px/2048px, mip maps 8 => 9
+2026-03-21T10:07:59.4868996-04:00|Texture lowr_diff_005_a_whi optimized from 2 MB to 377 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 2048px/4096px => 64px/64px, mip maps 13 => 5
+2026-03-21T10:07:59.5203060-04:00|Successfully optimized embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^lowr_035_u.ydd 'Female 35 Legs' (Legs) at pos 35 => ef7eb27d-802a-47ef-98ea-f2059e70b994.ydd'
+2026-03-21T10:08:51.5186043-04:00|Trying to optimize texture 'b' of 'Female 37 Shoes' (Shoes) at pos 37 ...
+2026-03-21T10:08:53.4993970-04:00|Texture 'b' (d0183dcf-fd21-459d-9cd4-3c798385efa4.ytd) file got successfully updated to 695782fd-7de8-49c4-91ea-5e8bc67b8187.ytd.
+2026-03-21T10:08:53.6591215-04:00|Texture S4_3453CF95_80000000_BE29D0F50FE74E56%%+RLE2 optimized from 565 KB to 245 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:08:53.6768506-04:00|Successfully optimized drawable texture 'b' of 'Female 37 Shoes' (Shoes) at pos 37
+2026-03-21T10:08:53.8700083-04:00|Trying to optimize texture 'a' of 'Female 37 Shoes' (Shoes) at pos 37 ...
+2026-03-21T10:08:54.8771575-04:00|Texture 'a' (ec9a86b5-595f-40d6-b553-9edd3fa4e534.ytd) file got successfully updated to 63572587-508b-4b76-8992-b265d28f7d4a.ytd.
+2026-03-21T10:08:55.2080090-04:00|Texture S4_3453CF95_80000000_89C7AF6090FFE4B6%%+RLE2_rle2 optimized from 497 KB to 224 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:08:55.2204931-04:00|Successfully optimized drawable texture 'a' of 'Female 37 Shoes' (Shoes) at pos 37
+2026-03-21T10:09:09.5592284-04:00|Trying to optimize texture 'c' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:14.2126187-04:00|Texture 'c' (e519e880-8f52-41e5-81a6-95d50ef2e46b.ytd) file got successfully updated to 565edcd1-fa03-4bc9-9951-7afef8596feb.ytd.
+2026-03-21T10:09:14.3769346-04:00|Texture S4_3453CF95_80000000_B3AD2B0199C6B17A%%+RLE2 optimized from 1 MB to 587 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:14.4355046-04:00|Successfully optimized drawable texture 'c' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:14.6118163-04:00|Trying to optimize texture 'a' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:17.3948356-04:00|Texture 'a' (c37084dd-1a5e-44a6-9265-d73340a07786.ytd) file got successfully updated to 81217458-453b-41e8-949f-f188157e358b.ytd.
+2026-03-21T10:09:17.5963330-04:00|Texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2 optimized from 1 MB to 596 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:17.6171820-04:00|Successfully optimized drawable texture 'a' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:17.7890488-04:00|Trying to optimize texture 'b' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:20.4356252-04:00|Texture 'b' (676c35ca-4616-4cd0-8958-6b6622d05eb9.ytd) file got successfully updated to 1b5a0ae5-14ba-4de1-a17f-9370110c3375.ytd.
+2026-03-21T10:09:20.5892911-04:00|Texture S4_3453CF95_80000000_A84F3C4AB4A7D4AB%%+RLE2 optimized from 1 MB to 593 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:20.5974607-04:00|Successfully optimized drawable texture 'b' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:20.7677283-04:00|Trying to optimize texture 'd' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:23.2005521-04:00|Texture 'd' (382ac132-b079-4761-8115-858bede4bbd7.ytd) file got successfully updated to 39a8ff08-a7e6-439d-9512-34bd4eb3458f.ytd.
+2026-03-21T10:09:23.3476512-04:00|Texture S4_3453CF95_80000000_BBA2C19EB59F0871%%+RLE2 optimized from 1 MB to 583 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:23.3556811-04:00|Successfully optimized drawable texture 'd' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:23.5102085-04:00|Trying to optimize texture 'e' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:25.7603254-04:00|Texture 'e' (106c03fc-ba0a-4e7c-bc21-4f88fc1bb6f8.ytd) file got successfully updated to e592b7f0-59ab-4e66-8a08-fc072b8270ee.ytd.
+2026-03-21T10:09:25.9371695-04:00|Texture S4_3453CF95_80000000_C95BF769DDD7846B%%+RLE2 optimized from 1 MB to 586 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:26.0602453-04:00|Successfully optimized drawable texture 'e' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:26.2213724-04:00|Trying to optimize texture 'f' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:28.4899498-04:00|Texture 'f' (1a1fd6b1-0c6f-40b8-aba8-154237cd6e7f.ytd) file got successfully updated to 1f3d2307-2dec-430c-b39d-2c6c9e75abb2.ytd.
+2026-03-21T10:09:28.6431147-04:00|Texture S4_3453CF95_80000000_D10DEFF7D1BCE787%%+RLE2 optimized from 1 MB to 562 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:28.6794655-04:00|Successfully optimized drawable texture 'f' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:28.8584707-04:00|Trying to optimize texture 'g' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:31.2386516-04:00|Texture 'g' (bac40b5e-8f25-4555-9ac9-f7ed7a17edef.ytd) file got successfully updated to 0291bcf4-9808-4496-afbf-2e41643c1969.ytd.
+2026-03-21T10:09:31.3999570-04:00|Texture S4_3453CF95_80000000_D434DF4F1BEB8BC7%%+RLE2 optimized from 1 MB to 587 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:31.4197926-04:00|Successfully optimized drawable texture 'g' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:31.6177405-04:00|Trying to optimize texture 'h' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:33.7601235-04:00|Texture 'h' (0bcd7592-1368-4027-9d9f-8286704e090c.ytd) file got successfully updated to 4bf819a1-87e0-4127-b565-748a15e74cd2.ytd.
+2026-03-21T10:09:33.9497737-04:00|Texture S4_3453CF95_80000000_DB5C0114086713D0%%+RLE2 optimized from 1 MB to 591 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:33.9895768-04:00|Successfully optimized drawable texture 'h' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:34.2267689-04:00|Trying to optimize texture 'i' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:36.2481084-04:00|Texture 'i' (250d4c07-035a-4ad1-90f8-13921d37e51c.ytd) file got successfully updated to 8ad58085-67e7-4929-901c-ba59fd3fa61b.ytd.
+2026-03-21T10:09:36.4020470-04:00|Texture S4_3453CF95_80000000_EC3C96E32BF35A24%%+RLE2 optimized from 1 MB to 588 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:36.4106669-04:00|Successfully optimized drawable texture 'i' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:36.5554424-04:00|Trying to optimize texture 'j' of 'Female 37 Top' (Top) at pos 37 ...
+2026-03-21T10:09:38.3578694-04:00|Texture 'j' (659bf100-205d-4933-9985-1202cecad1aa.ytd) file got successfully updated to f2670aea-ad97-4f4a-bd25-da54d94ac773.ytd.
+2026-03-21T10:09:38.6551727-04:00|Texture S4_3453CF95_80000000_FFA8B72D9BDBFEC1%%+RLE2 optimized from 1 MB to 591 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:09:38.6636331-04:00|Successfully optimized drawable texture 'j' of 'Female 37 Top' (Top) at pos 37
+2026-03-21T10:09:47.2746448-04:00|Trying to optimize texture 'a' of 'Female 55 Legs' (Legs) at pos 55 ...
+2026-03-21T10:09:49.0564126-04:00|Texture 'a' (216783d1-9386-411a-8c34-7d3fa72fcc6d.ytd) file got successfully updated to e85acfca-b71a-4813-a981-720cd280806a.ytd.
+2026-03-21T10:09:49.1973332-04:00|Texture S4_3453CF95_80000000_D3F88700C925B863%%+RLE2 optimized from 1 MB to 479 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:09:49.2230905-04:00|Successfully optimized drawable texture 'a' of 'Female 55 Legs' (Legs) at pos 55
+2026-03-21T10:09:54.9857190-04:00|Successfully backed up project 2026-03-21 10:09:54.
+2026-03-21T10:10:10.7746288-04:00|Trying to optimize texture 'b' of 'Female 55 Top' (Top) at pos 55 ...
+2026-03-21T10:10:14.1926449-04:00|Texture 'b' (a27ca028-ad73-45ba-9213-28b5894c560d.ytd) file got successfully updated to afb822a7-a100-49fa-a3b9-fbebe7d329ec.ytd.
+2026-03-21T10:10:14.3348445-04:00|Texture S4_3453CF95_80000000_CC7E1D3F35A45D47%%+RLE2 optimized from 319 KB to 194 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:10:14.3595270-04:00|Successfully optimized drawable texture 'b' of 'Female 55 Top' (Top) at pos 55
+2026-03-21T10:10:14.5488786-04:00|Trying to optimize texture 'a' of 'Female 55 Top' (Top) at pos 55 ...
+2026-03-21T10:10:16.6038777-04:00|Texture 'a' (7d61d05c-0f08-4ecc-810b-38abea3242ce.ytd) file got successfully updated to 491fc664-b7e0-40d1-8085-2b754843424a.ytd.
+2026-03-21T10:10:16.7406732-04:00|Texture S4_3453CF95_80000000_C0F38984B8CFFA29%%+RLE2 optimized from 330 KB to 207 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:10:16.7493062-04:00|Successfully optimized drawable texture 'a' of 'Female 55 Top' (Top) at pos 55
+2026-03-21T10:10:16.9222347-04:00|Trying to optimize texture 'c' of 'Female 55 Top' (Top) at pos 55 ...
+2026-03-21T10:10:18.6260312-04:00|Texture 'c' (01cae580-cf11-4ec6-9b8a-b313ede9451f.ytd) file got successfully updated to e17a5d63-4c0b-4e67-ba33-13c2db9d6a30.ytd.
+2026-03-21T10:10:18.8165079-04:00|Texture S4_3453CF95_80000000_D6E233CEB8DFA0C9%%+RLE2 optimized from 315 KB to 197 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:10:18.8247812-04:00|Successfully optimized drawable texture 'c' of 'Female 55 Top' (Top) at pos 55
+2026-03-21T10:10:18.9892957-04:00|Trying to optimize texture 'd' of 'Female 55 Top' (Top) at pos 55 ...
+2026-03-21T10:10:20.5554264-04:00|Texture 'd' (324fcc69-d4b6-4999-bc31-aee78551c2c9.ytd) file got successfully updated to de5ff1ae-144c-4ba7-a8c0-59cfb2175da9.ytd.
+2026-03-21T10:10:20.7384295-04:00|Texture S4_3453CF95_80000000_D8BF86410F441965%%+RLE2 optimized from 164 KB to 127 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:10:20.7622091-04:00|Successfully optimized drawable texture 'd' of 'Female 55 Top' (Top) at pos 55
+2026-03-21T10:10:20.9843037-04:00|Trying to optimize texture 'e' of 'Female 55 Top' (Top) at pos 55 ...
+2026-03-21T10:10:22.4349950-04:00|Texture 'e' (f52a52af-657c-48a3-b72f-798e5febedcb.ytd) file got successfully updated to 83ddac9b-0008-4af5-96b8-fa994fc48c90.ytd.
+2026-03-21T10:10:22.5807906-04:00|Texture S4_3453CF95_80000000_F0BE8A07CB989D31%%+RLE2 optimized from 329 KB to 202 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:10:22.5958536-04:00|Successfully optimized drawable texture 'e' of 'Female 55 Top' (Top) at pos 55
+2026-03-21T10:10:54.9643965-04:00|Successfully backed up project 2026-03-21 10:10:54.
+2026-03-21T10:11:36.9347681-04:00|Trying to optimize texture 'a' of 'Female 6 Armor' (Armor) at pos 6 ...
+2026-03-21T10:11:38.0389834-04:00|Texture 'a' (2fb7e368-6ccb-4335-9ee1-63d7b2b4c6be.ytd) file got successfully updated to 9e54f3c9-de8b-4501-a299-2c9e4ed9c554.ytd.
+2026-03-21T10:11:38.1818213-04:00|Texture S4_3453CF95_80000000_A4E18C3EE36BDBAE%%+RLE2 optimized from 758 KB to 282 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:11:38.2064132-04:00|Successfully optimized drawable texture 'a' of 'Female 6 Armor' (Armor) at pos 6
+2026-03-21T10:11:58.4215306-04:00|Trying to optimize texture 'b' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:01.1375465-04:00|Texture 'b' (8aee5187-dace-42c9-80b5-d0e97b451ed8.ytd) file got successfully updated to 03e03415-c3b5-4d96-8d83-03646625e645.ytd.
+2026-03-21T10:12:01.2929830-04:00|Texture LostnNFound optimized from 4 MB to 467 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:01.3016655-04:00|Successfully optimized drawable texture 'b' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:01.3658507-04:00|Trying to optimize texture 'a' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:03.7487962-04:00|Texture 'a' (ec73c8ab-5de1-4dde-953c-b12d53b75050.ytd) file got successfully updated to 86a53afa-3b1b-4eb8-946e-e0641ebefdec.ytd.
+2026-03-21T10:12:03.9432396-04:00|Texture Atmosphere optimized from 1 MB to 404 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:03.9508075-04:00|Successfully optimized drawable texture 'a' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:04.0237259-04:00|Trying to optimize texture 'c' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:06.2833227-04:00|Texture 'c' (48314e70-9107-44fa-8625-7c15d4e78dc0.ytd) file got successfully updated to 4a10be4b-c80e-4c72-a2cd-7cdd3e5a7196.ytd.
+2026-03-21T10:12:06.3461536-04:00|Texture CourtPurple optimized from 4 MB to 495 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:06.3617931-04:00|Successfully optimized drawable texture 'c' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:06.4417476-04:00|Trying to optimize texture 'd' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:08.5349651-04:00|Texture 'd' (5c3efe7d-a88b-4340-818f-e2a9e27358b9.ytd) file got successfully updated to 4a107dbc-2a96-4f6a-86cf-56f8a4ac7032.ytd.
+2026-03-21T10:12:08.6657152-04:00|Texture CourtPurple2 optimized from 3 MB to 456 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:08.6909568-04:00|Successfully optimized drawable texture 'd' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:08.7600148-04:00|Trying to optimize texture 'e' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:10.9467337-04:00|Texture 'e' (4187979a-44f5-4601-9b56-4a0341e25532.ytd) file got successfully updated to 148149d5-ad39-40bd-9db6-dbe15bafe980.ytd.
+2026-03-21T10:12:11.0014347-04:00|Texture GoldToe optimized from 4 MB to 512 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:11.0110361-04:00|Successfully optimized drawable texture 'e' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:11.0768170-04:00|Trying to optimize texture 'f' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:13.2280637-04:00|Texture 'f' (09a95115-9c3d-4240-b65c-7d360d9bf78a.ytd) file got successfully updated to 1dc35c4d-7df0-427d-817b-629e2eff41a8.ytd.
+2026-03-21T10:12:13.3594475-04:00|Texture HyperRoyal optimized from 4 MB to 482 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:13.3687584-04:00|Successfully optimized drawable texture 'f' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:13.4462198-04:00|Trying to optimize texture 'g' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:15.3672852-04:00|Texture 'g' (e0527aca-419d-4a52-bd8a-9b697073e191.ytd) file got successfully updated to c8bc5ed0-bd4c-49fc-a2ce-34bb36ec0b85.ytd.
+2026-03-21T10:12:15.4211857-04:00|Texture Laney optimized from 2 MB to 460 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:15.4308649-04:00|Successfully optimized drawable texture 'g' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:15.5563181-04:00|Trying to optimize texture 'h' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:17.5608079-04:00|Texture 'h' (34542f21-b592-4541-889f-d3117b70231a.ytd) file got successfully updated to 2d4eca31-3c8e-4fca-af1a-f37e5054f603.ytd.
+2026-03-21T10:12:17.6961535-04:00|Texture Mocha optimized from 3 MB to 503 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:17.7053527-04:00|Successfully optimized drawable texture 'h' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:17.7909834-04:00|Trying to optimize texture 'i' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:19.6770752-04:00|Texture 'i' (4af85b6f-4e9a-4451-b74f-9d83d6edcfc6.ytd) file got successfully updated to 311e78f0-7046-4f43-b8b7-c04c5b5c2a07.ytd.
+2026-03-21T10:12:19.7360279-04:00|Texture Obsidian optimized from 5 MB to 554 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 1 => 9
+2026-03-21T10:12:19.7443152-04:00|Successfully optimized drawable texture 'i' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:19.9244961-04:00|Trying to optimize texture 'j' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:21.7121362-04:00|Texture 'j' (4a3c16d3-ff14-4dda-aa09-ee6a5da4b88c.ytd) file got successfully updated to 5eabd335-cd6f-453d-9f47-31654bd9e2cb.ytd.
+2026-03-21T10:12:21.8690738-04:00|Texture Shadow optimized from 4 MB to 427 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:21.8821638-04:00|Successfully optimized drawable texture 'j' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:22.0271704-04:00|Trying to optimize texture 'k' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:23.7551322-04:00|Texture 'k' (de6fc068-7f8f-4054-9ead-426a4a81bab2.ytd) file got successfully updated to d262b0e2-5500-4cc0-8733-45bbf94c8c96.ytd.
+2026-03-21T10:12:23.7676179-04:00|Texture ShatteredBackboard optimized from 3 MB to 403 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:23.7765306-04:00|Successfully optimized drawable texture 'k' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:23.9100378-04:00|Trying to optimize texture 'l' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:25.5697058-04:00|Texture 'l' (a70de540-7720-47c9-90a0-e869af3c0e60.ytd) file got successfully updated to 8c05c6be-c5bf-4d62-bff5-a3a3d63f8ace.ytd.
+2026-03-21T10:12:25.5821938-04:00|Texture Taxi optimized from 3 MB to 405 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:25.5909999-04:00|Successfully optimized drawable texture 'l' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:25.7458249-04:00|Trying to optimize texture 'm' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:27.2615458-04:00|Texture 'm' (55ffa344-24e5-4369-82b4-2526fb928394.ytd) file got successfully updated to 37679daa-95d9-4b73-a429-1a990d02722a.ytd.
+2026-03-21T10:12:27.2776187-04:00|Texture TrueBlue optimized from 3 MB to 467 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:27.2858594-04:00|Successfully optimized drawable texture 'm' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:27.4658567-04:00|Trying to optimize texture 'n' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:28.7535321-04:00|Texture 'n' (4415fb9a-42bb-4482-82b3-b10fa3f696bd.ytd) file got successfully updated to 44ef5b4d-b2b1-45e1-9cf6-7bcee8f9504b.ytd.
+2026-03-21T10:12:28.7732619-04:00|Texture UniversityBlue optimized from 7 MB to 606 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:28.8039671-04:00|Successfully optimized drawable texture 'n' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:28.9927067-04:00|Trying to optimize texture 'o' of 'Female 6 Shoes' (Shoes) at pos 6 ...
+2026-03-21T10:12:30.0965601-04:00|Texture 'o' (22555f51-2adf-4ed9-a623-2d24139ebf47.ytd) file got successfully updated to 549c945d-45b6-46b7-b25f-ffb1b5c4ee54.ytd.
+2026-03-21T10:12:30.1338597-04:00|Texture TravisFrag optimized from 4 MB to 472 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 4096px/2048px => 2048px/1024px, mip maps 10 => 9
+2026-03-21T10:12:30.1441681-04:00|Successfully optimized drawable texture 'o' of 'Female 6 Shoes' (Shoes) at pos 6
+2026-03-21T10:12:55.8446376-04:00|Trying to optimize texture 'a' of 'Female 70 Legs' (Legs) at pos 70 ...
+2026-03-21T10:12:56.9941379-04:00|Texture 'a' (33b62daa-8d12-462b-8263-e0584a8571b8.ytd) file got successfully updated to 6867fd68-474d-4bde-acfe-57ee384a678b.ytd.
+2026-03-21T10:12:57.1445932-04:00|Texture S4_3453CF95_80000000_96719D756059B616%%+RLE2 optimized from 339 KB to 252 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:12:57.1683470-04:00|Successfully optimized drawable texture 'a' of 'Female 70 Legs' (Legs) at pos 70
+2026-03-21T10:13:54.9718473-04:00|Successfully backed up project 2026-03-21 10:13:54.
+2026-03-21T10:13:57.1085704-04:00|Trying to optimize texture 'b' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:00.6561678-04:00|Texture 'b' (dd2318ca-d95c-48b8-830f-ebbf7907de48.ytd) file got successfully updated to 028b7947-c2b8-4da6-9776-d8cb398d8850.ytd.
+2026-03-21T10:14:00.8171572-04:00|Texture S4_3453CF95_80000000_BE2842B74A8A8254%%+RLE2 optimized from 1 MB to 453 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:00.8335421-04:00|Successfully optimized drawable texture 'b' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:01.0377055-04:00|Trying to optimize texture 'a' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:03.2991522-04:00|Texture 'a' (9de847d1-fe72-4ae8-97e8-21d5b54f2739.ytd) file got successfully updated to 703811e4-c437-4f9c-a609-1edb191af192.ytd.
+2026-03-21T10:14:03.4598211-04:00|Texture S4_3453CF95_80000000_A7DC423B1A3E8581%%+RLE2 optimized from 1 MB to 445 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:03.4796028-04:00|Successfully optimized drawable texture 'a' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:03.6876889-04:00|Trying to optimize texture 'c' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:05.6971196-04:00|Texture 'c' (9d201cab-224c-4948-a0e4-9f524de0b518.ytd) file got successfully updated to 9243eb51-ad58-4a1b-a475-6154436b20d7.ytd.
+2026-03-21T10:14:05.8402699-04:00|Texture S4_3453CF95_80000000_D02DBD00E886D0E3%%+RLE2 optimized from 1 MB to 449 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:05.8491256-04:00|Successfully optimized drawable texture 'c' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:06.0372841-04:00|Trying to optimize texture 'd' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:07.9179296-04:00|Texture 'd' (eb381207-3719-4e71-964c-81cd7edf95a3.ytd) file got successfully updated to 07733f9e-bd67-42c5-a498-915300fad4ab.ytd.
+2026-03-21T10:14:08.0819310-04:00|Texture S4_3453CF95_80000000_EAAE3BBCDBA479DB%%+RLE2 optimized from 902 KB to 425 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:08.0921460-04:00|Successfully optimized drawable texture 'd' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:08.2355689-04:00|Trying to optimize texture 'e' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:10.0497148-04:00|Texture 'e' (58933fc7-8e63-49ac-b1ff-9d3a7ec034a7.ytd) file got successfully updated to dadeb59e-8dd1-4831-99c0-2749eb575594.ytd.
+2026-03-21T10:14:10.2618735-04:00|Texture S4_3453CF95_80000000_F97986248F3EFAE5%%+RLE2 optimized from 935 KB to 427 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:10.2706254-04:00|Successfully optimized drawable texture 'e' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:10.4277326-04:00|Trying to optimize texture 'f' of 'Female 70 Undershirt' (Undershirt) at pos 70 ...
+2026-03-21T10:14:12.0132570-04:00|Texture 'f' (c0c66210-cb09-4a5b-ac06-2c6689735098.ytd) file got successfully updated to 50ad04f5-25e5-4a6d-b28f-5603b468b3e8.ytd.
+2026-03-21T10:14:12.1785591-04:00|Texture S4_3453CF95_80000000_FF45DE23438B72BB%%+RLE2 optimized from 470 KB to 293 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:14:12.1954197-04:00|Successfully optimized drawable texture 'f' of 'Female 70 Undershirt' (Undershirt) at pos 70
+2026-03-21T10:14:54.9795528-04:00|Successfully backed up project 2026-03-21 10:14:54.
+2026-03-21T10:15:14.4565784-04:00|Trying to optimize texture 'a' of 'Female 71 Legs' (Legs) at pos 71 ...
+2026-03-21T10:15:16.2459776-04:00|Texture 'a' (f424a881-98e0-44c8-9fff-5c8551a85109.ytd) file got successfully updated to 60bd407f-2918-4cb1-bb0e-6d563608f2c7.ytd.
+2026-03-21T10:15:16.4357311-04:00|Texture S4_3453CF95_80000000_2AF30E7F6F7F8C17%%+RLE2 optimized from 1 MB to 536 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:15:16.4492137-04:00|Successfully optimized drawable texture 'a' of 'Female 71 Legs' (Legs) at pos 71
+2026-03-21T10:15:54.9977698-04:00|Successfully backed up project 2026-03-21 10:15:54.
+2026-03-21T10:16:03.9917488-04:00|Trying to optimize texture 'd' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:07.0033658-04:00|Texture 'd' (c0e10d4e-1f1b-4a8c-9654-da8545970369.ytd) file got successfully updated to 1ad8217f-acec-41b6-8c22-af0f5d292355.ytd.
+2026-03-21T10:16:07.2311888-04:00|Texture 04 optimized from 1 MB to 607 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:07.2450664-04:00|Successfully optimized drawable texture 'd' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:07.4024743-04:00|Trying to optimize texture 'a' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:09.9628701-04:00|Texture 'a' (9ab2dc4a-d87c-42b6-8975-5ee4e70fb263.ytd) file got successfully updated to fc944d12-739f-4c78-bf35-2d899b181f4c.ytd.
+2026-03-21T10:16:10.2575523-04:00|Texture 01 optimized from 1 MB to 587 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:10.2863850-04:00|Successfully optimized drawable texture 'a' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:10.4479516-04:00|Trying to optimize texture 'b' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:12.8040519-04:00|Texture 'b' (7c018ca8-3f36-45d3-9e41-ccc92e24df87.ytd) file got successfully updated to 9a5d008e-dfe5-4af0-b0b6-728fc5651ffb.ytd.
+2026-03-21T10:16:12.9597548-04:00|Texture 02 optimized from 744 KB to 429 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:12.9772066-04:00|Successfully optimized drawable texture 'b' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:13.1801497-04:00|Trying to optimize texture 'c' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:15.6083548-04:00|Texture 'c' (8dcfe33c-7e63-4a9c-bd05-feac46c7651d.ytd) file got successfully updated to 36c0b799-6b38-415d-a922-ebd40972ee38.ytd.
+2026-03-21T10:16:15.9798883-04:00|Texture 03 optimized from 1 MB to 585 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:15.9892996-04:00|Successfully optimized drawable texture 'c' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:16.1502787-04:00|Trying to optimize texture 'e' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:18.3432098-04:00|Texture 'e' (4ba8d73e-a4b3-45c2-8056-3bb0eec85b35.ytd) file got successfully updated to cd79eb8c-b0d6-45b5-bffd-ce4586759c3c.ytd.
+2026-03-21T10:16:18.5152643-04:00|Texture 05 optimized from 1 MB to 628 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:18.5391401-04:00|Successfully optimized drawable texture 'e' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:18.7008572-04:00|Trying to optimize texture 'f' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:20.8471430-04:00|Texture 'f' (0be34363-c114-4717-9c28-e8e83a7780f2.ytd) file got successfully updated to 5701a653-8e03-4334-a29a-c505575e3f3c.ytd.
+2026-03-21T10:16:21.0533536-04:00|Texture 06 optimized from 1 MB to 531 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:21.0879764-04:00|Successfully optimized drawable texture 'f' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:21.2422460-04:00|Trying to optimize texture 'g' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:23.1508086-04:00|Texture 'g' (58484e50-2605-46c8-b9be-5035e7a5a6d5.ytd) file got successfully updated to ece77952-d1ce-4780-aa7a-c83eea581fad.ytd.
+2026-03-21T10:16:23.3433256-04:00|Texture 07 optimized from 1 MB to 539 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:23.3530592-04:00|Successfully optimized drawable texture 'g' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:23.5019522-04:00|Trying to optimize texture 'h' of 'Female 71 Undershirt' (Undershirt) at pos 71 ...
+2026-03-21T10:16:25.3125198-04:00|Texture 'h' (c5ea4fde-6269-4f00-82db-b71299feab1f.ytd) file got successfully updated to ae16532e-f77e-4bb6-87e8-7e2d4d0360a2.ytd.
+2026-03-21T10:16:25.5197902-04:00|Texture 08 optimized from 1005 KB to 499 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:16:25.5344739-04:00|Successfully optimized drawable texture 'h' of 'Female 71 Undershirt' (Undershirt) at pos 71
+2026-03-21T10:16:56.5005426-04:00|Successfully backed up project 2026-03-21 10:16:56.
+2026-03-21T10:17:08.6034220-04:00|Trying to optimize texture 'd' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:13.1725187-04:00|Texture 'd' (587d1ec0-618d-49e5-9fe0-1ae7505b5e9b.ytd) file got successfully updated to 08d349ba-829f-4211-bb8e-619734dc3e25.ytd.
+2026-03-21T10:17:13.4151528-04:00|Texture S4_3453CF95_80000000_90C0169AFFB879FB%%+RLE2 optimized from 1 MB to 602 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:13.4282316-04:00|Successfully optimized drawable texture 'd' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:13.6115401-04:00|Trying to optimize texture 'a' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:17.5638433-04:00|Texture 'a' (358bedaf-b85b-4039-aa19-0bbcb57071a5.ytd) file got successfully updated to 623e8eaf-5eb5-4ca6-b21b-dc6815597829.ytd.
+2026-03-21T10:17:17.7831886-04:00|Texture S4_3453CF95_80000000_9F775196C724668A%%+RLE2 optimized from 1 MB to 715 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:17.8107582-04:00|Successfully optimized drawable texture 'a' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:17.9807719-04:00|Trying to optimize texture 'b' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:21.4770541-04:00|Texture 'b' (c7881cfc-f827-4805-a114-b4e7127af253.ytd) file got successfully updated to 44371fd1-a38a-4985-9260-e7a58b0ba388.ytd.
+2026-03-21T10:17:21.6256096-04:00|Texture S4_3453CF95_80000000_80D68CE61CB89946%%+RLE2 optimized from 1 MB to 726 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:21.6456902-04:00|Successfully optimized drawable texture 'b' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:21.8256659-04:00|Trying to optimize texture 'c' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:25.6660852-04:00|Texture 'c' (fa26507a-d43b-4ee9-b015-d8e03b46d9d8.ytd) file got successfully updated to 5a84d418-790d-4391-8adc-a56f613a1598.ytd.
+2026-03-21T10:17:26.0134040-04:00|Texture S4_3453CF95_80000000_82A3AA18AECC66AF%%+RLE2 optimized from 1 MB to 663 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:26.1520616-04:00|Successfully optimized drawable texture 'c' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:26.3632268-04:00|Trying to optimize texture 'e' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:29.7214419-04:00|Texture 'e' (177f195b-8d8a-4849-96f1-6ae96ed93e3b.ytd) file got successfully updated to 0e498135-7df2-42d7-9602-140543e3bd8f.ytd.
+2026-03-21T10:17:29.9051009-04:00|Texture S4_3453CF95_80000000_82343414300DD759%%+RLE2 optimized from 1 MB to 749 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:29.9187409-04:00|Successfully optimized drawable texture 'e' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:30.0631181-04:00|Trying to optimize texture 'f' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:33.2827957-04:00|Texture 'f' (81535ac3-a195-42eb-a91a-8368579dbd89.ytd) file got successfully updated to 30e310a6-d077-466d-aee0-24db7f5fd12d.ytd.
+2026-03-21T10:17:33.4651292-04:00|Texture S4_3453CF95_80000000_A1B03696867CF000%%+RLE2 optimized from 1 MB to 605 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:33.4757007-04:00|Successfully optimized drawable texture 'f' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:33.6583239-04:00|Trying to optimize texture 'g' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:36.8478751-04:00|Texture 'g' (71776e3c-1e74-42b6-b0cb-73e9dfbe81a1.ytd) file got successfully updated to 7829cc2d-0521-41d1-be90-71204a4b0e5b.ytd.
+2026-03-21T10:17:37.0566487-04:00|Texture S4_3453CF95_80000000_A42BFDCDABBC08E4%%+RLE2 optimized from 1 MB to 735 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:37.0654905-04:00|Successfully optimized drawable texture 'g' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:37.2558730-04:00|Trying to optimize texture 'h' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:40.3166291-04:00|Texture 'h' (256c5d09-a72b-413a-ba7f-9098fb898b55.ytd) file got successfully updated to 818d1c34-cc1e-43de-b5e2-ea4a32098888.ytd.
+2026-03-21T10:17:40.4944198-04:00|Texture S4_3453CF95_80000000_BA3DBCC59067A906%%+RLE2 optimized from 1 MB to 559 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:40.5150126-04:00|Successfully optimized drawable texture 'h' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:40.7100510-04:00|Trying to optimize texture 'i' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:43.6539093-04:00|Texture 'i' (ae8f9ebf-09d0-4685-9ad6-1d299e431c92.ytd) file got successfully updated to b5bcf386-be8e-46ed-8aca-40cff363f8a5.ytd.
+2026-03-21T10:17:43.7953443-04:00|Texture S4_3453CF95_80000000_BA4BA6448EB5DCAF%%+RLE2 optimized from 1 MB to 729 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:43.8292258-04:00|Successfully optimized drawable texture 'i' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:43.9969930-04:00|Trying to optimize texture 'j' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:46.9778867-04:00|Texture 'j' (d6c519a6-a234-4992-94d8-6de53cf9c091.ytd) file got successfully updated to 6ce14e9f-e125-4ea1-b4cd-346a47f81fab.ytd.
+2026-03-21T10:17:47.3725867-04:00|Texture S4_3453CF95_80000000_DFD18B7B837DDD19%%+RLE2 optimized from 1 MB to 707 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:47.3808841-04:00|Successfully optimized drawable texture 'j' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:47.5776772-04:00|Trying to optimize texture 'k' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:50.2936887-04:00|Texture 'k' (2e106097-a767-43a9-8a2c-2da561e38bcd.ytd) file got successfully updated to 63a8a9df-30e7-4667-adee-4de0daf2b715.ytd.
+2026-03-21T10:17:50.3416981-04:00|Texture S4_3453CF95_80000000_E7D8D0E5C79EC42F%%+RLE2 optimized from 1 MB to 727 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:50.3507545-04:00|Successfully optimized drawable texture 'k' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:50.5357147-04:00|Trying to optimize texture 'l' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:53.0839812-04:00|Texture 'l' (b9223278-48a3-45f9-8dd3-30e1fccea8eb.ytd) file got successfully updated to fb9b5045-6524-4b71-9404-8508f2d3c9da.ytd.
+2026-03-21T10:17:53.1186729-04:00|Texture S4_3453CF95_80000000_E62EC7EAC0798C01%%+RLE2 optimized from 1 MB to 659 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:53.1403814-04:00|Successfully optimized drawable texture 'l' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:53.3223783-04:00|Trying to optimize texture 'm' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:55.7592542-04:00|Texture 'm' (8ede1e81-545e-470c-a8ff-26bed4eeacd2.ytd) file got successfully updated to fba73e3e-158f-4e9d-a9d5-5f35d30f31b7.ytd.
+2026-03-21T10:17:56.0636650-04:00|Texture S4_3453CF95_80000000_E367855ABD88D0C8%%+RLE2 optimized from 1 MB to 741 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:56.0871959-04:00|Successfully optimized drawable texture 'm' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:56.2361402-04:00|Trying to optimize texture 'n' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:17:58.4820942-04:00|Texture 'n' (b581171a-e582-4189-b756-265a0c735fe3.ytd) file got successfully updated to ec667777-042d-40c7-af40-e50bdfb67e97.ytd.
+2026-03-21T10:17:58.5155792-04:00|Texture S4_3453CF95_80000000_EF5E9034EA568048%%+RLE2 optimized from 1 MB to 694 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:17:58.5475880-04:00|Successfully optimized drawable texture 'n' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:17:58.7524090-04:00|Trying to optimize texture 'o' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:18:01.2551830-04:00|Texture 'o' (afe96c98-2ba1-4ae6-9f2d-d10503226acd.ytd) file got successfully updated to acc4953a-ddda-4f9f-a8a2-8fcafbc26c46.ytd.
+2026-03-21T10:18:01.2971189-04:00|Texture S4_3453CF95_80000000_F250A7BCBB61B7A2%%+RLE2 optimized from 1 MB to 702 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:18:01.3062037-04:00|Successfully optimized drawable texture 'o' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:18:01.4927336-04:00|Trying to optimize texture 'p' of 'Female 72 Legs' (Legs) at pos 72 ...
+2026-03-21T10:18:03.6801679-04:00|Texture 'p' (08888f76-5a35-47a1-b341-5589f060d7cb.ytd) file got successfully updated to 9d77c213-ad2d-4c07-9314-4889f64cc5d1.ytd.
+2026-03-21T10:18:03.7264886-04:00|Texture S4_3453CF95_80000000_F404CB00950338C1%%+RLE2 optimized from 1 MB to 749 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:18:03.7362526-04:00|Successfully optimized drawable texture 'p' of 'Female 72 Legs' (Legs) at pos 72
+2026-03-21T10:18:19.2930491-04:00|Trying to optimize texture 'b' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:22.4576039-04:00|Texture 'b' (68f7794f-0e89-43a8-af10-64e57e3cfba5.ytd) file got successfully updated to fd5c9cfc-18ad-4681-9a10-f498cccedf3a.ytd.
+2026-03-21T10:18:22.7430272-04:00|Texture S4_3453CF95_80000000_A2E2A1E1C6066C93%%+RLE2 optimized from 1 MB to 568 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:22.7525515-04:00|Successfully optimized drawable texture 'b' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:22.9424797-04:00|Trying to optimize texture 'a' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:24.8938363-04:00|Texture 'a' (d400a1bc-c266-4056-9e79-622c7e08b2f4.ytd) file got successfully updated to 1a758e4f-7d97-463f-a89c-d2cab6622321.ytd.
+2026-03-21T10:18:25.0458332-04:00|Texture S4_3453CF95_80000000_945F0B723927E4D4%%+RLE2 optimized from 1 MB to 591 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:25.0617578-04:00|Successfully optimized drawable texture 'a' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:25.2356356-04:00|Trying to optimize texture 'c' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:26.8726904-04:00|Texture 'c' (4b4091cb-2f40-4660-98af-f34b546cbc2e.ytd) file got successfully updated to cb5160e8-365a-4696-8338-4d58f6f54c86.ytd.
+2026-03-21T10:18:27.0208202-04:00|Texture S4_3453CF95_80000000_A70FA93E831F8C34%%+RLE2 optimized from 1 MB to 593 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:27.0954662-04:00|Successfully optimized drawable texture 'c' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:27.2268363-04:00|Trying to optimize texture 'd' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:28.6840043-04:00|Texture 'd' (1a66a5c5-8ff0-47d3-b27f-f545ea96ead0.ytd) file got successfully updated to 091b6fad-7a4f-4eb2-b2b8-35b3e4813b13.ytd.
+2026-03-21T10:18:28.8550648-04:00|Texture S4_3453CF95_80000000_BCF64E09D6368D88%%+RLE2 optimized from 1 MB to 596 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:28.8626182-04:00|Successfully optimized drawable texture 'd' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:29.0006032-04:00|Trying to optimize texture 'e' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:30.3780582-04:00|Texture 'e' (a42e582c-3233-4eda-8ac5-8527779aeaab.ytd) file got successfully updated to 47bb580e-fe1f-4d1f-8ff8-841b938a64af.ytd.
+2026-03-21T10:18:30.5996005-04:00|Texture S4_3453CF95_80000000_DBCD70FA4B326631%%+RLE2 optimized from 1 MB to 558 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:30.6073035-04:00|Successfully optimized drawable texture 'e' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:30.7556966-04:00|Trying to optimize texture 'f' of 'Female 73 Legs' (Legs) at pos 73 ...
+2026-03-21T10:18:32.0093807-04:00|Texture 'f' (38842d8a-5b35-46b0-acfe-afb7e7160550.ytd) file got successfully updated to 1568149e-0cab-4174-b4b8-960db01d9eca.ytd.
+2026-03-21T10:18:32.1541702-04:00|Texture S4_3453CF95_80000000_ED0B3B34FBB513CC%%+RLE2 optimized from 1 MB to 589 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:18:32.1688798-04:00|Successfully optimized drawable texture 'f' of 'Female 73 Legs' (Legs) at pos 73
+2026-03-21T10:18:43.5559665-04:00|Trying to optimize texture 'b' of 'Female 76 Legs' (Legs) at pos 76 ...
+2026-03-21T10:18:46.3700892-04:00|Texture 'b' (ed5d35c8-ba46-4c5f-ada8-32991ef06ab1.ytd) file got successfully updated to 5b5d799a-60d8-4e0e-bdb1-2a9167e6e52f.ytd.
+2026-03-21T10:18:46.5509547-04:00|Texture S4_3453CF95_80000000_C1F9C4014ACF3F9D%%+RLE2 optimized from 1 MB to 452 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:18:46.5726231-04:00|Successfully optimized drawable texture 'b' of 'Female 76 Legs' (Legs) at pos 76
+2026-03-21T10:18:46.7704912-04:00|Trying to optimize texture 'a' of 'Female 76 Legs' (Legs) at pos 76 ...
+2026-03-21T10:18:48.4421264-04:00|Texture 'a' (53e1e68c-bc82-4dc7-905f-981d28969542.ytd) file got successfully updated to 77c2458a-d37e-408c-9282-d1363b37f7ef.ytd.
+2026-03-21T10:18:48.6206067-04:00|Texture S4_3453CF95_80000000_A8E15A630870F056%%+RLE2 optimized from 1 MB to 456 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:18:48.6326696-04:00|Successfully optimized drawable texture 'a' of 'Female 76 Legs' (Legs) at pos 76
+2026-03-21T10:18:48.8922531-04:00|Trying to optimize texture 'c' of 'Female 76 Legs' (Legs) at pos 76 ...
+2026-03-21T10:18:50.3921412-04:00|Texture 'c' (c4bb30cc-a0d8-4135-ab08-cdab7abaffeb.ytd) file got successfully updated to b0d9782e-cbc4-4df0-bd22-090417e9bffc.ytd.
+2026-03-21T10:18:50.5674570-04:00|Texture S4_3453CF95_80000000_E5770DCA264CDD29%%+RLE2_rle2 optimized from 1 MB to 451 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:18:50.5933145-04:00|Successfully optimized drawable texture 'c' of 'Female 76 Legs' (Legs) at pos 76
+2026-03-21T10:18:54.9692203-04:00|Successfully backed up project 2026-03-21 10:18:54.
+2026-03-21T10:19:17.7240741-04:00|Trying to optimize texture 'a' of 'Female 76 Undershirt' (Undershirt) at pos 76 ...
+2026-03-21T10:19:20.5325156-04:00|Texture 'a' (d49342a2-e377-4ec0-b7ae-1631617d4313.ytd) file got successfully updated to 8c967bd8-45a7-4c63-a0b4-47740a2d42ce.ytd.
+2026-03-21T10:19:20.6772720-04:00|Texture S4_3453CF95_80000000_2A2892C6C7D41CB6%%+RLE2_rle2 optimized from 1 MB to 595 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:19:20.7007776-04:00|Successfully optimized drawable texture 'a' of 'Female 76 Undershirt' (Undershirt) at pos 76
+2026-03-21T10:19:30.3486633-04:00|Trying to optimize texture 'a' of 'Female 77 Legs' (Legs) at pos 77 ...
+2026-03-21T10:19:33.1498331-04:00|Texture 'a' (b261f9b2-ff40-4922-bbf1-1e90f0deea81.ytd) file got successfully updated to b9578017-b762-473e-886b-565f3c0a9464.ytd.
+2026-03-21T10:19:33.2986155-04:00|Texture S4_3453CF95_80000000_074669B136F31FFB%%+RLE2_rle2 optimized from 1 MB to 535 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:19:33.6015971-04:00|Successfully optimized drawable texture 'a' of 'Female 77 Legs' (Legs) at pos 77
+2026-03-21T10:19:54.9860318-04:00|Successfully backed up project 2026-03-21 10:19:54.
+2026-03-21T10:19:58.0767834-04:00|Trying to optimize texture 'a' of 'Female 78 Legs' (Legs) at pos 78 ...
+2026-03-21T10:20:01.8769408-04:00|Texture 'a' (8ce79678-d936-44db-9312-ab22b41f2755.ytd) file got successfully updated to 3fed5272-f7d2-4c9f-8a30-e0bd4267c440.ytd.
+2026-03-21T10:20:02.0253043-04:00|Texture S4_3453CF95_80000000_4EEF300009ED9D5B%%+RLE2_rle2 optimized from 1 MB to 683 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:02.0349635-04:00|Successfully optimized drawable texture 'a' of 'Female 78 Legs' (Legs) at pos 78
+2026-03-21T10:20:02.2014629-04:00|Trying to optimize texture 'b' of 'Female 78 Legs' (Legs) at pos 78 ...
+2026-03-21T10:20:04.1479305-04:00|Texture 'b' (b4d00048-6574-48e5-bba8-77106254ad53.ytd) file got successfully updated to c1d05278-f84b-4372-a9c9-31b5258a314b.ytd.
+2026-03-21T10:20:04.3660217-04:00|Texture S4_3453CF95_80000000_9420A5D229DDC897%%+RLE2 optimized from 1 MB to 682 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:04.3746373-04:00|Successfully optimized drawable texture 'b' of 'Female 78 Legs' (Legs) at pos 78
+2026-03-21T10:20:04.5342007-04:00|Trying to optimize texture 'c' of 'Female 78 Legs' (Legs) at pos 78 ...
+2026-03-21T10:20:06.2490649-04:00|Texture 'c' (32c6794d-8d2b-4630-adb0-648d6020e1ac.ytd) file got successfully updated to 1b645bb4-6757-4348-971a-02a520484623.ytd.
+2026-03-21T10:20:06.4070725-04:00|Texture S4_3453CF95_80000000_D25344BDA0B7305C%%+RLE2 optimized from 1 MB to 680 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:06.4755506-04:00|Successfully optimized drawable texture 'c' of 'Female 78 Legs' (Legs) at pos 78
+2026-03-21T10:20:06.6810996-04:00|Trying to optimize texture 'd' of 'Female 78 Legs' (Legs) at pos 78 ...
+2026-03-21T10:20:08.2908943-04:00|Texture 'd' (c0d037e7-4e0e-420a-84c0-f2a4820b59f2.ytd) file got successfully updated to e52f5ffa-a1b5-434a-bb62-2ba1ccae0471.ytd.
+2026-03-21T10:20:08.4652386-04:00|Texture S4_3453CF95_80000000_EE578A091AA0DC90%%+RLE2 optimized from 1 MB to 681 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:08.4913656-04:00|Successfully optimized drawable texture 'd' of 'Female 78 Legs' (Legs) at pos 78
+2026-03-21T10:20:20.9613866-04:00|Trying to optimize texture 'b' of 'Female 79 Legs' (Legs) at pos 79 ...
+2026-03-21T10:20:24.1958760-04:00|Texture 'b' (acc3d8a7-2503-4248-b96c-badf5cbe2511.ytd) file got successfully updated to c1419250-ceed-4101-bf46-86cdbcb57c70.ytd.
+2026-03-21T10:20:24.3442517-04:00|Texture S4_3453CF95_80000000_AC54690CD029A1EB%%+RLE2 optimized from 359 KB to 227 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:24.3736509-04:00|Successfully optimized drawable texture 'b' of 'Female 79 Legs' (Legs) at pos 79
+2026-03-21T10:20:24.7685503-04:00|Trying to optimize texture 'c' of 'Female 79 Legs' (Legs) at pos 79 ...
+2026-03-21T10:20:26.7267037-04:00|Texture 'c' (4a751de6-c087-4e71-8b48-d65a19fcd4a9.ytd) file got successfully updated to bbc2f851-e843-433a-9b62-6229f8d4c80e.ytd.
+2026-03-21T10:20:26.8857315-04:00|Texture S4_3453CF95_80000000_B9644DF0636E889E%%+RLE2 optimized from 363 KB to 233 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:26.8968614-04:00|Successfully optimized drawable texture 'c' of 'Female 79 Legs' (Legs) at pos 79
+2026-03-21T10:20:27.0757946-04:00|Trying to optimize texture 'a' of 'Female 79 Legs' (Legs) at pos 79 ...
+2026-03-21T10:20:28.9487384-04:00|Texture 'a' (e32421dc-c001-4971-88d8-f9a01e7a996c.ytd) file got successfully updated to 178796c6-bfbd-4a2b-bdde-939fd1f20924.ytd.
+2026-03-21T10:20:29.1685032-04:00|Texture S4_3453CF95_80000000_8C7F2AFE4BD6F58D%%+RLE2 optimized from 367 KB to 239 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:29.1783200-04:00|Successfully optimized drawable texture 'a' of 'Female 79 Legs' (Legs) at pos 79
+2026-03-21T10:20:29.3509932-04:00|Trying to optimize texture 'd' of 'Female 79 Legs' (Legs) at pos 79 ...
+2026-03-21T10:20:31.1282119-04:00|Texture 'd' (35b708f5-6be1-4058-af8e-a3fb3bf29f26.ytd) file got successfully updated to 58c97308-568c-45d7-a88a-3936fe5b70d5.ytd.
+2026-03-21T10:20:31.2998601-04:00|Texture S4_3453CF95_80000000_BA8957F2CB2AE71D%%+RLE2 optimized from 314 KB to 200 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:31.3442402-04:00|Successfully optimized drawable texture 'd' of 'Female 79 Legs' (Legs) at pos 79
+2026-03-21T10:20:31.5777937-04:00|Trying to optimize texture 'e' of 'Female 79 Legs' (Legs) at pos 79 ...
+2026-03-21T10:20:33.1847885-04:00|Texture 'e' (530734c8-ea76-49a7-8094-90a6c10d937e.ytd) file got successfully updated to b8ab5411-8d3f-454f-a75e-267361f07222.ytd.
+2026-03-21T10:20:33.5576367-04:00|Texture S4_3453CF95_80000000_C2872F355FD292A3%%+RLE2 optimized from 157 KB to 129 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:33.5663906-04:00|Successfully optimized drawable texture 'e' of 'Female 79 Legs' (Legs) at pos 79
+2026-03-21T10:20:41.7494346-04:00|Trying to optimize texture 'a' of 'Female 8 Accessories' (Accessories) at pos 8 ...
+2026-03-21T10:20:44.4128718-04:00|Texture 'a' (d4ca7ad6-166b-4e7c-b9d1-9c8455fb3370.ytd) file got successfully updated to 78953235-281e-46be-95fd-75ee5f57b59f.ytd.
+2026-03-21T10:20:44.5498411-04:00|Texture task_diff_000_a_uni optimized from 307 KB to 159 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:44.5660563-04:00|Successfully optimized drawable texture 'a' of 'Female 8 Accessories' (Accessories) at pos 8
+2026-03-21T10:20:55.4520436-04:00|Trying to optimize texture 'a' of 'Female 80 Legs' (Legs) at pos 80 ...
+2026-03-21T10:20:58.2696341-04:00|Texture 'a' (c5556784-7de8-4440-a60c-9e3bcb4988ed.ytd) file got successfully updated to 6cb05a2c-276a-4656-b1d8-8526dbf951c6.ytd.
+2026-03-21T10:20:58.4270808-04:00|Texture S4_3453CF95_80000000_B3E7A8BB85E0F8BA%%+RLE2 optimized from 1 MB to 584 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:20:58.4441576-04:00|Successfully optimized drawable texture 'a' of 'Female 80 Legs' (Legs) at pos 80
+2026-03-21T10:21:16.1304504-04:00|Trying to optimize texture 'a' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:20.1509843-04:00|Texture 'a' (f73d312d-965b-45cb-92ee-7298a2cea67a.ytd) file got successfully updated to 134611cf-a135-4b00-bf47-5a8b0728bebc.ytd.
+2026-03-21T10:21:20.3412056-04:00|Texture S4_3453CF95_80000000_908AFBCD2B953E66%%+RLE2_rle2 optimized from 577 KB to 317 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:20.3765463-04:00|Successfully optimized drawable texture 'a' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:20.5900780-04:00|Trying to optimize texture 'b' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:23.3948258-04:00|Texture 'b' (ea24d7d6-5037-4be2-ad2c-a58dea32fd6c.ytd) file got successfully updated to 5ec67de5-81ed-4819-86f8-b553439f0d06.ytd.
+2026-03-21T10:21:23.6001066-04:00|Texture S4_3453CF95_80000000_980B76AC4D4B7BBC%%+RLE2 optimized from 611 KB to 327 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:23.6185436-04:00|Successfully optimized drawable texture 'b' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:23.7621502-04:00|Trying to optimize texture 'c' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:26.4463938-04:00|Texture 'c' (6e3e27cd-67d1-42f6-a3a9-17aeb37c2aa9.ytd) file got successfully updated to 4642a475-21ae-485d-aa85-06e9673d72ac.ytd.
+2026-03-21T10:21:26.6132052-04:00|Texture S4_3453CF95_80000000_BA7FC17C3418BFC4%%+RLE2 optimized from 604 KB to 328 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:26.6404464-04:00|Successfully optimized drawable texture 'c' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:26.8148843-04:00|Trying to optimize texture 'd' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:29.2274242-04:00|Texture 'd' (d58e659d-fa86-4526-8750-d1a586e0fd68.ytd) file got successfully updated to e62b7458-61ec-4881-aeb2-61be72ff222d.ytd.
+2026-03-21T10:21:29.3745706-04:00|Texture S4_3453CF95_80000000_CA636F6FC4CA0D23%%+RLE2 optimized from 602 KB to 327 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:29.4120445-04:00|Successfully optimized drawable texture 'd' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:29.5597841-04:00|Trying to optimize texture 'e' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:31.9456598-04:00|Texture 'e' (0238a735-74db-4ae9-9c0f-39add86f43d1.ytd) file got successfully updated to 75d62fe5-80a6-4519-9eaf-d1df16d53c9c.ytd.
+2026-03-21T10:21:32.2609176-04:00|Texture S4_3453CF95_80000000_CFD3E093938D08CA%%+RLE2 optimized from 581 KB to 318 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:32.2693918-04:00|Successfully optimized drawable texture 'e' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:32.4176842-04:00|Trying to optimize texture 'f' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:34.5694486-04:00|Texture 'f' (4346505c-a910-4295-a37a-ac4c5656005c.ytd) file got successfully updated to 5a2f1261-3b3c-46ad-8c82-4f43640e0191.ytd.
+2026-03-21T10:21:34.7277003-04:00|Texture S4_3453CF95_80000000_D30678C75DD3EE32%%+RLE2 optimized from 509 KB to 306 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:34.7491112-04:00|Successfully optimized drawable texture 'f' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:34.9546665-04:00|Trying to optimize texture 'g' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:37.1883837-04:00|Texture 'g' (ceb1dce2-b0fb-4016-a630-41650cfab11a.ytd) file got successfully updated to d941c53a-39f2-4e03-89a0-e429d403780b.ytd.
+2026-03-21T10:21:37.3480185-04:00|Texture S4_3453CF95_80000000_DE008E7A3B7CB6D1%%+RLE2 optimized from 615 KB to 327 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:37.3686609-04:00|Successfully optimized drawable texture 'g' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:37.5551253-04:00|Trying to optimize texture 'h' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:39.6421532-04:00|Texture 'h' (22d8e9c5-057f-40af-aaf4-cfe1be1f85fc.ytd) file got successfully updated to b436fa13-2801-467b-a227-8de4a6e95cb6.ytd.
+2026-03-21T10:21:39.8190865-04:00|Texture S4_3453CF95_80000000_E8BDA70EE0D9AC0B%%+RLE2 optimized from 589 KB to 321 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:39.8595456-04:00|Successfully optimized drawable texture 'h' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:40.0161385-04:00|Trying to optimize texture 'i' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:41.9654470-04:00|Texture 'i' (217b80e8-467c-4f6d-bf74-fab23860a7f9.ytd) file got successfully updated to 0a48d249-5f12-483e-8b5b-5059b0584ee7.ytd.
+2026-03-21T10:21:42.1193211-04:00|Texture S4_3453CF95_80000000_E30836049D489E1F%%+RLE2 optimized from 534 KB to 320 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:42.1281778-04:00|Successfully optimized drawable texture 'i' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:42.2815228-04:00|Trying to optimize texture 'j' of 'Female 84 Top' (Top) at pos 84 ...
+2026-03-21T10:21:44.1018569-04:00|Texture 'j' (4c96b457-304b-4494-829d-db0faa181682.ytd) file got successfully updated to 0d3c42a3-51fe-4a5d-967a-9a6b4285cf5a.ytd.
+2026-03-21T10:21:44.3221768-04:00|Texture S4_3453CF95_80000000_FD5DD84BA72EB229%%+RLE2 optimized from 599 KB to 324 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:44.3342759-04:00|Successfully optimized drawable texture 'j' of 'Female 84 Top' (Top) at pos 84
+2026-03-21T10:21:56.1113565-04:00|Trying to optimize texture 'b' of 'Female 84 Undershirt' (Undershirt) at pos 84 ...
+2026-03-21T10:21:59.1902513-04:00|Texture 'b' (6c06d0d6-9c76-4022-a333-3f2b3b017644.ytd) file got successfully updated to 41e1a807-8243-49d0-88b2-ba0e9db4ccb5.ytd.
+2026-03-21T10:21:59.3325789-04:00|Texture S4_3453CF95_80000000_A0159320BC41375F%%+RLE2_rle2 optimized from 580 KB to 332 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:21:59.3410431-04:00|Successfully optimized drawable texture 'b' of 'Female 84 Undershirt' (Undershirt) at pos 84
+2026-03-21T10:21:59.4756309-04:00|Trying to optimize texture 'a' of 'Female 84 Undershirt' (Undershirt) at pos 84 ...
+2026-03-21T10:22:01.4695649-04:00|Texture 'a' (f24dbb99-de15-41d0-a4f3-de99b9329b2b.ytd) file got successfully updated to 1990567e-cdb3-4c89-8e08-1f3a0d4154fd.ytd.
+2026-03-21T10:22:01.6703750-04:00|Texture S4_3453CF95_80000000_A258E807A1024383%%+RLE2 optimized from 1 MB to 554 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:01.6794149-04:00|Successfully optimized drawable texture 'a' of 'Female 84 Undershirt' (Undershirt) at pos 84
+2026-03-21T10:22:01.8879506-04:00|Trying to optimize texture 'c' of 'Female 84 Undershirt' (Undershirt) at pos 84 ...
+2026-03-21T10:22:03.8575405-04:00|Texture 'c' (6329cf7c-0cb9-4b4e-a94c-6178379da77b.ytd) file got successfully updated to 2a9b47cc-e9b7-4a42-9ffa-dfbefd8265f7.ytd.
+2026-03-21T10:22:04.0488565-04:00|Texture S4_3453CF95_80000000_B31F640064274ED7%%+RLE2 optimized from 1 MB to 485 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:04.0699808-04:00|Successfully optimized drawable texture 'c' of 'Female 84 Undershirt' (Undershirt) at pos 84
+2026-03-21T10:22:04.2698093-04:00|Trying to optimize texture 'd' of 'Female 84 Undershirt' (Undershirt) at pos 84 ...
+2026-03-21T10:22:05.8702522-04:00|Texture 'd' (e530df3d-12f0-4adb-830b-26d8108c3950.ytd) file got successfully updated to 1ea39365-1951-4793-ab64-b422d83dbcab.ytd.
+2026-03-21T10:22:06.0556376-04:00|Texture S4_3453CF95_80000000_CC584BCF46B03449%%+RLE2 optimized from 1 MB to 548 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:06.0844150-04:00|Successfully optimized drawable texture 'd' of 'Female 84 Undershirt' (Undershirt) at pos 84
+2026-03-21T10:22:15.4305272-04:00|Trying to optimize texture 'b' of 'Female 85 Top' (Top) at pos 85 ...
+2026-03-21T10:22:18.8539277-04:00|Texture 'b' (625ca4f1-8520-4056-8dc3-a72ef73dc295.ytd) file got successfully updated to 0564f187-dee7-4695-a4b6-89e228346e1a.ytd.
+2026-03-21T10:22:18.9939853-04:00|Texture 02 optimized from 641 KB to 293 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:19.0031556-04:00|Successfully optimized drawable texture 'b' of 'Female 85 Top' (Top) at pos 85
+2026-03-21T10:22:19.1941608-04:00|Trying to optimize texture 'a' of 'Female 85 Top' (Top) at pos 85 ...
+2026-03-21T10:22:20.9895613-04:00|Texture 'a' (6f51d101-f34b-427c-9d5a-f66d45d8cc9e.ytd) file got successfully updated to 69cba07e-5365-4c70-951a-f3addb297013.ytd.
+2026-03-21T10:22:21.1786019-04:00|Texture 01 optimized from 481 KB to 255 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:21.1915758-04:00|Successfully optimized drawable texture 'a' of 'Female 85 Top' (Top) at pos 85
+2026-03-21T10:22:21.3518202-04:00|Trying to optimize texture 'c' of 'Female 85 Top' (Top) at pos 85 ...
+2026-03-21T10:22:22.9831044-04:00|Texture 'c' (9a03e424-fc64-497d-bffc-1a4934abd21b.ytd) file got successfully updated to 7d355a2e-0398-4dd4-a95f-78d8d2c444c1.ytd.
+2026-03-21T10:22:23.1810266-04:00|Texture 03 optimized from 615 KB to 292 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:23.2105847-04:00|Successfully optimized drawable texture 'c' of 'Female 85 Top' (Top) at pos 85
+2026-03-21T10:22:23.3930316-04:00|Trying to optimize texture 'd' of 'Female 85 Top' (Top) at pos 85 ...
+2026-03-21T10:22:24.9229344-04:00|Texture 'd' (54901f2c-2f70-4b95-a321-24b92be2cec5.ytd) file got successfully updated to 4695a242-fd16-4b66-8d8b-64bb83cc346a.ytd.
+2026-03-21T10:22:25.0987396-04:00|Texture 04 optimized from 438 KB to 231 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:22:25.1155973-04:00|Successfully optimized drawable texture 'd' of 'Female 85 Top' (Top) at pos 85
+2026-03-21T10:22:54.9802094-04:00|Successfully backed up project 2026-03-21 10:22:54.
+2026-03-21T10:23:07.6383848-04:00|Trying to optimize texture 'a' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:11.8199431-04:00|Texture 'a' (2ac9523b-1348-40e4-b6f4-36e527cc19ed.ytd) file got successfully updated to 8f316d8c-4218-4b70-9009-b8ea400941bd.ytd.
+2026-03-21T10:23:12.1808361-04:00|Texture 01 optimized from 562 KB to 253 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:12.1894761-04:00|Successfully optimized drawable texture 'a' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:12.3566514-04:00|Trying to optimize texture 'b' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:15.0231549-04:00|Texture 'b' (d37046cc-5363-4791-b510-72c5e88ef1ee.ytd) file got successfully updated to 52dc635a-bdc0-47ef-963e-f945239bcf50.ytd.
+2026-03-21T10:23:15.1666649-04:00|Texture 02 optimized from 467 KB to 225 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:15.1752960-04:00|Successfully optimized drawable texture 'b' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:15.3536384-04:00|Trying to optimize texture 'c' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:17.8328774-04:00|Texture 'c' (bd390cb7-8da2-4155-b874-4aa76f4fb884.ytd) file got successfully updated to db2440c0-cbba-4bee-8b23-e46133a9f815.ytd.
+2026-03-21T10:23:17.9806540-04:00|Texture 03 optimized from 508 KB to 250 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:18.0409470-04:00|Successfully optimized drawable texture 'c' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:18.1793486-04:00|Trying to optimize texture 'd' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:20.5956980-04:00|Texture 'd' (6da8a8a3-46bb-4f1e-b40e-5bc111e87491.ytd) file got successfully updated to b0a3758d-f542-4e48-941d-fc8380d71513.ytd.
+2026-03-21T10:23:20.9073185-04:00|Texture 04 optimized from 699 KB to 292 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:20.9159847-04:00|Successfully optimized drawable texture 'd' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:21.0806305-04:00|Trying to optimize texture 'e' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:23.3927812-04:00|Texture 'e' (d6d72afc-13c2-4e95-b415-c5734572d6f9.ytd) file got successfully updated to 9cca56b5-b575-4d17-ac42-e5c2adcddc90.ytd.
+2026-03-21T10:23:23.5627076-04:00|Texture 05 optimized from 514 KB to 240 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:23.5957308-04:00|Successfully optimized drawable texture 'e' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:23.7919535-04:00|Trying to optimize texture 'f' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:26.1097156-04:00|Texture 'f' (8349fe56-7441-467f-b2fa-a684b2e60a8b.ytd) file got successfully updated to ce074072-af0d-442c-a514-fca7712b5612.ytd.
+2026-03-21T10:23:26.2636388-04:00|Texture 06 optimized from 635 KB to 275 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:26.2807529-04:00|Successfully optimized drawable texture 'f' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:26.4641185-04:00|Trying to optimize texture 'g' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:28.6027445-04:00|Texture 'g' (79716fe2-73a6-4da6-bef1-9c935f4efc25.ytd) file got successfully updated to 6b296ae3-650b-4441-a69c-110200dbec80.ytd.
+2026-03-21T10:23:28.7554755-04:00|Texture 07 optimized from 590 KB to 263 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:28.7790561-04:00|Successfully optimized drawable texture 'g' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:28.9650015-04:00|Trying to optimize texture 'h' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:31.0444630-04:00|Texture 'h' (aa1fdf94-5e63-42cb-9278-4bb75675e095.ytd) file got successfully updated to 261bc820-61e7-4c6e-b796-2e10a74ca198.ytd.
+2026-03-21T10:23:31.2168163-04:00|Texture 08 optimized from 551 KB to 251 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:31.2264220-04:00|Successfully optimized drawable texture 'h' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:31.3687913-04:00|Trying to optimize texture 'i' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:33.1968737-04:00|Texture 'i' (72567195-1dab-47da-a7d0-20b5a933dc39.ytd) file got successfully updated to 8d26c20d-16e5-4c44-a0c6-bd3b7ee432ef.ytd.
+2026-03-21T10:23:33.3480680-04:00|Texture 09 optimized from 557 KB to 252 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:33.3583251-04:00|Successfully optimized drawable texture 'i' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:33.5681247-04:00|Trying to optimize texture 'j' of 'Female 87 Top' (Top) at pos 87 ...
+2026-03-21T10:23:35.3400374-04:00|Texture 'j' (42ca8bcd-022c-454a-8763-bdf2ce8bbcf3.ytd) file got successfully updated to bbc7c013-1dea-46d6-b6fe-0e3fd8e224dd.ytd.
+2026-03-21T10:23:35.5191740-04:00|Texture 10 optimized from 503 KB to 236 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:23:35.5454722-04:00|Successfully optimized drawable texture 'j' of 'Female 87 Top' (Top) at pos 87
+2026-03-21T10:23:54.9702308-04:00|Successfully backed up project 2026-03-21 10:23:54.
+2026-03-21T10:24:11.6862914-04:00|Trying to optimize embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^jbib_089_u.ydd 'Female 89 Top' (Top) at pos 89 => a2a37594-74ef-4762-a079-fe2db94ba658.ydd' ...
+2026-03-21T10:24:44.7847295-04:00|Drawable 'Female 89 Top' (Top) at pos 89 (a2a37594-74ef-4762-a079-fe2db94ba658.ydd) file got successfully updated to 68fea7bc-b9c6-43ac-a296-f83d931e2200.ydd.
+2026-03-21T10:24:46.2080485-04:00|Drawable 'Female 89 Top' (Top) at pos 89 (68fea7bc-b9c6-43ac-a296-f83d931e2200.ydd) file got successfully updated to 5aebd3e6-f5ed-4959-ab1c-42cd9853ea3d.ydd.
+2026-03-21T10:24:46.3144137-04:00|Texture normal optimized from 2 MB to 1 MB, format D3DFMT_BC7 => D3DFMT_BC7, width/height 8px/8px => 4px/4px, mip maps 4 => 1
+2026-03-21T10:24:46.3281446-04:00|Texture spec optimized from 2 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 8px/8px => 4px/4px, mip maps 1 => 1
+2026-03-21T10:24:46.3381519-04:00|Texture 1 optimized from 2 MB to 1 MB, format D3DFMT_BC7 => D3DFMT_BC7, width/height 4096px/8192px => 2048px/4096px, mip maps 14 => 10
+2026-03-21T10:24:46.3493477-04:00|Successfully optimized embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^jbib_089_u.ydd 'Female 89 Top' (Top) at pos 89 => 5aebd3e6-f5ed-4959-ab1c-42cd9853ea3d.ydd'
+2026-03-21T10:24:54.9746661-04:00|Successfully backed up project 2026-03-21 10:24:54.
+2026-03-21T10:24:58.7444720-04:00|Trying to optimize texture 'a' of 'Female 89 Top' (Top) at pos 89 ...
+2026-03-21T10:25:00.7942463-04:00|Texture 'a' (e4ba9da1-65bc-4449-a472-2cdeb15b3bca.ytd) file got successfully updated to 876c132d-377d-453f-8962-7d9b7304f351.ytd.
+2026-03-21T10:25:00.9734901-04:00|Texture jbib_diff_015_a_uni optimized from 628 KB to 174 KB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:25:01.0060201-04:00|Successfully optimized drawable texture 'a' of 'Female 89 Top' (Top) at pos 89
+2026-03-21T10:25:01.0767923-04:00|Trying to optimize texture 'b' of 'Female 89 Top' (Top) at pos 89 ...
+2026-03-21T10:25:02.1777167-04:00|Texture 'b' (f97a612a-3b43-41f8-b11d-ea2040eda232.ytd) file got successfully updated to 55c44afb-657c-4748-8dec-76f93df50ad0.ytd.
+2026-03-21T10:25:02.2962877-04:00|Texture jbib_diff_015_a_uni optimized from 617 KB to 171 KB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:25:02.3260129-04:00|Successfully optimized drawable texture 'b' of 'Female 89 Top' (Top) at pos 89
+2026-03-21T10:25:02.4395115-04:00|Trying to optimize texture 'c' of 'Female 89 Top' (Top) at pos 89 ...
+2026-03-21T10:25:03.6992152-04:00|Texture 'c' (6c2161b9-efd2-467a-a585-70444dd91250.ytd) file got successfully updated to 45f76664-234e-4323-92a8-0cb1eef9d2b7.ytd.
+2026-03-21T10:25:03.8132075-04:00|Texture jbib_diff_015_a_uni optimized from 628 KB to 174 KB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:25:03.8691064-04:00|Successfully optimized drawable texture 'c' of 'Female 89 Top' (Top) at pos 89
+2026-03-21T10:25:03.9794014-04:00|Trying to optimize texture 'd' of 'Female 89 Top' (Top) at pos 89 ...
+2026-03-21T10:25:05.0144172-04:00|Texture 'd' (98f9341d-0fc0-47ec-b2f0-2bb6a40d36ac.ytd) file got successfully updated to 44933b9d-b6be-48bf-a8be-534d3712d89d.ytd.
+2026-03-21T10:25:05.1472281-04:00|Texture jbib_diff_015_a_uni optimized from 623 KB to 173 KB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:25:05.1626060-04:00|Successfully optimized drawable texture 'd' of 'Female 89 Top' (Top) at pos 89
+2026-03-21T10:25:05.2989867-04:00|Trying to optimize texture 'e' of 'Female 89 Top' (Top) at pos 89 ...
+2026-03-21T10:25:06.2705985-04:00|Texture 'e' (ec4c3a44-af1f-45a6-b4e2-6eb24792e0c9.ytd) file got successfully updated to 10eafdcb-7593-4c5d-a96c-66e995ac254c.ytd.
+2026-03-21T10:25:06.5463500-04:00|Texture jbib_diff_015_a_uni optimized from 625 KB to 173 KB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:25:06.5552909-04:00|Successfully optimized drawable texture 'e' of 'Female 89 Top' (Top) at pos 89
+2026-03-21T10:25:22.3616984-04:00|Trying to optimize texture 'b' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:25.6304925-04:00|Texture 'b' (3b578f8a-556c-467b-b171-3b03d26d062d.ytd) file got successfully updated to 64cdc04f-189b-4ccd-9709-c09c54f174ad.ytd.
+2026-03-21T10:25:26.0142010-04:00|Texture jbib_diff_019_b_uni optimized from 1 MB to 447 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:26.0233521-04:00|Successfully optimized drawable texture 'b' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:26.1975678-04:00|Trying to optimize texture 'a' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:28.7984318-04:00|Texture 'a' (7dcfb42b-91b7-4a94-8b86-fa2122ef687b.ytd) file got successfully updated to 950b0fc7-20d2-413d-882d-5b668eda85e8.ytd.
+2026-03-21T10:25:28.9639771-04:00|Texture jbib_diff_019_a_uni optimized from 1 MB to 436 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:28.9730926-04:00|Successfully optimized drawable texture 'a' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:29.1564959-04:00|Trying to optimize texture 'c' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:31.4700761-04:00|Texture 'c' (1fe55bf6-db62-4765-87ef-2f85ba08dcc2.ytd) file got successfully updated to 3d3ff377-016e-4643-9c0b-2eac2da930f0.ytd.
+2026-03-21T10:25:31.6143166-04:00|Texture jbib_diff_019_c_uni optimized from 1 MB to 446 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:31.6778582-04:00|Successfully optimized drawable texture 'c' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:31.8618474-04:00|Trying to optimize texture 'd' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:34.0816993-04:00|Texture 'd' (36cbcc05-e860-4d5b-a0c2-1f6bf01720e0.ytd) file got successfully updated to 54c2209b-e8c4-46c1-beb3-5d739804790a.ytd.
+2026-03-21T10:25:34.2397324-04:00|Texture jbib_diff_019_d_uni optimized from 1 MB to 443 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:34.3868943-04:00|Successfully optimized drawable texture 'd' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:34.5280141-04:00|Trying to optimize texture 'e' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:36.7585564-04:00|Texture 'e' (53a02741-15c2-4948-87de-5dea8eda8284.ytd) file got successfully updated to 542febdf-6d08-4480-bdba-2d2035fddd4e.ytd.
+2026-03-21T10:25:36.9180034-04:00|Texture jbib_diff_019_e_uni optimized from 1 MB to 448 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:36.9409891-04:00|Successfully optimized drawable texture 'e' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:37.1314824-04:00|Trying to optimize texture 'f' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:39.2726859-04:00|Texture 'f' (6217bc72-5971-45b1-8998-8899d4876abc.ytd) file got successfully updated to 62bd3109-de4b-4f62-8e4c-056ad21a378f.ytd.
+2026-03-21T10:25:39.4162052-04:00|Texture jbib_diff_019_f_uni optimized from 1 MB to 448 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:39.4285765-04:00|Successfully optimized drawable texture 'f' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:39.5988379-04:00|Trying to optimize texture 'g' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:41.6559744-04:00|Texture 'g' (18b202cc-642a-41b7-b46a-3f461405d4f2.ytd) file got successfully updated to cead72fe-0adb-4f9b-85aa-4a3ecd036134.ytd.
+2026-03-21T10:25:41.8075882-04:00|Texture jbib_diff_019_g_uni optimized from 1 MB to 448 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:41.8216542-04:00|Successfully optimized drawable texture 'g' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:41.9921264-04:00|Trying to optimize texture 'h' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:43.9038020-04:00|Texture 'h' (dce0f1df-6615-41fd-86cf-33776b22d4a7.ytd) file got successfully updated to dfa75dcf-c0f9-4650-ab68-ee37f3a91fd1.ytd.
+2026-03-21T10:25:44.0488149-04:00|Texture jbib_diff_019_h_uni optimized from 1 MB to 443 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:44.0570768-04:00|Successfully optimized drawable texture 'h' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:44.2027335-04:00|Trying to optimize texture 'i' of 'Female 89 Undershirt' (Undershirt) at pos 89 ...
+2026-03-21T10:25:45.9413739-04:00|Texture 'i' (73ad3991-0bc8-4a63-8604-44d50a222d70.ytd) file got successfully updated to 5c40d711-8fe0-41e4-b5b2-bc17a9e7c386.ytd.
+2026-03-21T10:25:46.1638555-04:00|Texture jbib_diff_019_i_uni optimized from 1 MB to 446 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:25:46.1740605-04:00|Successfully optimized drawable texture 'i' of 'Female 89 Undershirt' (Undershirt) at pos 89
+2026-03-21T10:25:56.8395096-04:00|Successfully backed up project 2026-03-21 10:25:56.
+2026-03-21T10:26:02.3196004-04:00|Trying to optimize texture 'b' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:05.0972033-04:00|Texture 'b' (a1444165-274d-4efd-b172-507c7b5c5ad8.ytd) file got successfully updated to f45a0691-b39b-40fd-9fe6-3c7793dd7d00.ytd.
+2026-03-21T10:26:05.4831377-04:00|Texture S4_3453CF95_80000000_9619D944DD38E36C%%+RLE2 optimized from 456 KB to 268 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:05.4910126-04:00|Successfully optimized drawable texture 'b' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:05.6286791-04:00|Trying to optimize texture 'a' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:08.2252814-04:00|Texture 'a' (91000018-f496-4672-b57e-22d11d36eb16.ytd) file got successfully updated to 318e97d5-fad4-4c54-9649-1e6c2b641198.ytd.
+2026-03-21T10:26:08.3866357-04:00|Texture S4_3453CF95_80000000_98F39F338C84188F%%+RLE2 optimized from 364 KB to 220 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:08.3946086-04:00|Successfully optimized drawable texture 'a' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:08.5785588-04:00|Trying to optimize texture 'c' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:11.0179523-04:00|Texture 'c' (31e869e9-323a-4f65-baa1-01b51e401cb3.ytd) file got successfully updated to a101e336-db39-4ac1-9f53-93a0774b2ee3.ytd.
+2026-03-21T10:26:11.1723641-04:00|Texture S4_3453CF95_80000000_9981671C369E5F2B%%+RLE2 optimized from 444 KB to 260 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:11.1822916-04:00|Successfully optimized drawable texture 'c' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:11.3429935-04:00|Trying to optimize texture 'd' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:13.6078219-04:00|Texture 'd' (894e00f3-a558-4d8e-a319-64b27b01a84f.ytd) file got successfully updated to e99a0aaa-c572-4fe3-ae87-e3597db63a5c.ytd.
+2026-03-21T10:26:13.8953169-04:00|Texture S4_3453CF95_80000000_A5E0B1A5FBFB4E8D%%+RLE2 optimized from 568 KB to 267 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:13.9131732-04:00|Successfully optimized drawable texture 'd' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:14.0785430-04:00|Trying to optimize texture 'e' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:16.2227727-04:00|Texture 'e' (be3ebf89-9b01-4ed0-abf1-cde8df6cf6a8.ytd) file got successfully updated to 61fd297f-566b-4a16-961f-16e8155e15ac.ytd.
+2026-03-21T10:26:16.3714370-04:00|Texture S4_3453CF95_80000000_A75D41E657A21901%%+RLE2 optimized from 461 KB to 263 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:16.3953636-04:00|Successfully optimized drawable texture 'e' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:16.6046626-04:00|Trying to optimize texture 'f' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:18.8829360-04:00|Texture 'f' (6d09317e-d88f-44eb-9a0e-17e4a23730ec.ytd) file got successfully updated to dea953d1-143f-4f52-9410-4e1563c0fda4.ytd.
+2026-03-21T10:26:19.0296300-04:00|Texture S4_3453CF95_80000000_B0C4692CC95439A3%%+RLE2 optimized from 490 KB to 271 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:19.0400039-04:00|Successfully optimized drawable texture 'f' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:19.1830682-04:00|Trying to optimize texture 'g' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:21.1084021-04:00|Texture 'g' (ff745ddb-fe3e-484d-831b-f6e5f9f7b175.ytd) file got successfully updated to 0d5ef2c9-5d09-498e-91a6-f7360730b88d.ytd.
+2026-03-21T10:26:21.2521512-04:00|Texture S4_3453CF95_80000000_CBE9029C011DADE3%%+RLE2 optimized from 394 KB to 242 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:21.2612169-04:00|Successfully optimized drawable texture 'g' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:21.4350957-04:00|Trying to optimize texture 'h' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:23.2433204-04:00|Texture 'h' (67561a20-fda1-4f9b-9eba-34b480987054.ytd) file got successfully updated to ec42455c-f0b6-4e4f-b1ca-3504bfdcb260.ytd.
+2026-03-21T10:26:23.4238187-04:00|Texture S4_3453CF95_80000000_E5372D96193BB8C5%%+RLE2 optimized from 417 KB to 253 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:23.4325671-04:00|Successfully optimized drawable texture 'h' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:23.6142593-04:00|Trying to optimize texture 'i' of 'Female 90 Undershirt' (Undershirt) at pos 90 ...
+2026-03-21T10:26:25.3460278-04:00|Texture 'i' (aa6b9bf2-4444-4ac6-b978-973a06b6ea04.ytd) file got successfully updated to f3a553af-da5f-47c0-83b0-220076ee5a0f.ytd.
+2026-03-21T10:26:25.5310722-04:00|Texture S4_3453CF95_80000000_E827643B67A3FC01%%+RLE2_rle2 optimized from 568 KB to 267 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 2048px/4096px, mip maps 1 => 10
+2026-03-21T10:26:25.5911088-04:00|Successfully optimized drawable texture 'i' of 'Female 90 Undershirt' (Undershirt) at pos 90
+2026-03-21T10:26:56.3316015-04:00|Successfully backed up project 2026-03-21 10:26:56.
+2026-03-21T10:27:01.0907509-04:00|Trying to optimize texture 'b' of 'Female 94 Top' (Top) at pos 94 ...
+2026-03-21T10:27:03.1615357-04:00|Texture 'b' (590df65a-328f-4f43-a925-ed0b70b577b7.ytd) file got successfully updated to e8873df6-a5f2-4e51-b23a-cce41f82b47a.ytd.
+2026-03-21T10:27:03.3714192-04:00|Texture S4_3453CF95_80000000_D308E98B367ECF26%%+RLE2 optimized from 566 KB to 264 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:27:03.3812999-04:00|Successfully optimized drawable texture 'b' of 'Female 94 Top' (Top) at pos 94
+2026-03-21T10:27:03.5424325-04:00|Trying to optimize texture 'a' of 'Female 94 Top' (Top) at pos 94 ...
+2026-03-21T10:27:04.7702055-04:00|Texture 'a' (cdd11230-6443-4971-84bd-11fd2ed320f2.ytd) file got successfully updated to 512a45f8-c96c-4f70-87b0-5fe3f34833f1.ytd.
+2026-03-21T10:27:04.9396186-04:00|Texture S4_3453CF95_80000000_66D40A34E7F38CBD%%+RLE2 optimized from 365 KB to 210 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:27:05.0962545-04:00|Successfully optimized drawable texture 'a' of 'Female 94 Top' (Top) at pos 94
+2026-03-21T10:27:05.2763663-04:00|Trying to optimize texture 'c' of 'Female 94 Top' (Top) at pos 94 ...
+2026-03-21T10:27:06.3052886-04:00|Texture 'c' (9882090b-bd05-4f9c-a206-7953d55bfcc9.ytd) file got successfully updated to 5d0b2779-49cf-4878-8414-ed7abb0502f5.ytd.
+2026-03-21T10:27:06.4556573-04:00|Texture S4_3453CF95_80000000_F57EE139531E103E%%+RLE2 optimized from 592 KB to 276 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T10:27:06.4790784-04:00|Successfully optimized drawable texture 'c' of 'Female 94 Top' (Top) at pos 94
+2026-03-21T10:27:21.9991677-04:00|Trying to optimize embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^lowr_095_u.ydd 'Female 95 Legs' (Legs) at pos 95 => 63412b31-a6d9-4cbd-a717-42bb79c869fa.ydd' ...
+2026-03-21T10:27:27.4999666-04:00|Drawable 'Female 95 Legs' (Legs) at pos 95 (63412b31-a6d9-4cbd-a717-42bb79c869fa.ydd) file got successfully updated to 4706f022-e6d1-43e0-abe2-a67ec3b01d39.ydd.
+2026-03-21T10:27:29.6154219-04:00|Drawable 'Female 95 Legs' (Legs) at pos 95 (4706f022-e6d1-43e0-abe2-a67ec3b01d39.ydd) file got successfully updated to b7897cb8-e72b-45dd-b336-e1a7ec1c295a.ydd.
+2026-03-21T10:27:29.7153663-04:00|Texture normal optimized from 1 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 10 => 9
+2026-03-21T10:27:29.7270355-04:00|Texture spec optimized from 1 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 10 => 9
+2026-03-21T10:27:29.7346917-04:00|Texture 2 optimized from 1 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 10 => 9
+2026-03-21T10:27:29.7461612-04:00|Successfully optimized embedded textures of model 'mp_f_freemode_01_mp_f_viper_civpacktwo^lowr_095_u.ydd 'Female 95 Legs' (Legs) at pos 95 => b7897cb8-e72b-45dd-b336-e1a7ec1c295a.ydd'
+2026-03-21T10:27:41.0792716-04:00|Removed 'Shoes' (See logs for full details). Total items: 1707
+2026-03-21T10:27:49.0888142-04:00|Removed 'Shoes' (See logs for full details). Total items: 1706
+2026-03-21T10:27:54.9521396-04:00|Successfully backed up project 2026-03-21 10:27:54.
+2026-03-21T10:28:11.3050031-04:00|Removed 'Undershirt' (See logs for full details). Total items: 1705
+2026-03-21T10:28:15.0655988-04:00|Project with 1705 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpacktwo.dctproj).
