@@ -1875,3 +1875,7 @@
 2026-03-21T06:38:56.0721081-04:00|Successfully backed up project 2026-03-21 06:38:56.
 2026-03-21T06:39:56.7190185-04:00|Successfully backed up project 2026-03-21 06:39:56.
 2026-03-21T06:40:23.0372603-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T06:40:46.4871006-04:00|Changed create sub folder for cloth drawable types setting to: Yes
+2026-03-21T06:40:54.9976366-04:00|Successfully backed up project 2026-03-21 06:40:54.
+2026-03-21T06:42:29.7446139-04:00|Successfully built FiveM resource (1614 clothes / 0 tattoos / 0 facial overlays) to D:\DurtyClothTool.App\Onyx RP Civ Packs\onyx_civpackone
+2026-03-21T06:42:44.7483948-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
