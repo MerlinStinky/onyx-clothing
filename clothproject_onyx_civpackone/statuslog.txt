@@ -1929,3 +1929,5 @@
 2026-03-21T10:37:39.0297034-04:00|Changed position of 'Female 60 Shoes' (Shoes) at pos 60 to 56.
 2026-03-21T10:37:39.0949455-04:00|Successfully resorted 44 from 1614 total item positions.
 2026-03-21T10:37:46.7496330-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T10:38:53.7683127-04:00|Successfully built FiveM resource (1614 clothes / 0 tattoos / 0 facial overlays) to D:\DurtyClothTool.App\Onyx RP Civ Packs\onyx_civpackone
+2026-03-21T10:39:20.2345304-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
