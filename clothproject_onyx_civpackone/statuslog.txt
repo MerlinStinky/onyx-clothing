@@ -1860,3 +1860,18 @@
 2026-03-21T06:29:08.3267592-04:00|Successfully optimized drawable texture 'a' of 'Female 99 Legs' (Legs) at pos 99
 2026-03-21T06:29:55.0080586-04:00|Successfully backed up project 2026-03-21 06:29:55.
 2026-03-21T06:30:37.2712609-04:00|Project with 1617 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T06:31:44.7228074-04:00|Project with 1617 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T06:31:45.5794103-04:00|Project with 1617 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T06:32:00.7149737-04:00|Project with 1617 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T06:32:55.2269159-04:00|Successfully backed up project 2026-03-21 06:32:55.
+2026-03-21T06:33:54.9933668-04:00|Successfully backed up project 2026-03-21 06:33:54.
+2026-03-21T06:34:54.9885941-04:00|Successfully backed up project 2026-03-21 06:34:54.
+2026-03-21T06:35:29.0203780-04:00|Removed 'Shoes' (See logs for full details). Total items: 1616
+2026-03-21T06:35:54.9835186-04:00|Successfully backed up project 2026-03-21 06:35:54.
+2026-03-21T06:36:55.3675207-04:00|Successfully backed up project 2026-03-21 06:36:55.
+2026-03-21T06:37:55.2279995-04:00|Successfully backed up project 2026-03-21 06:37:55.
+2026-03-21T06:38:05.2771419-04:00|Removed 'Shoes' (See logs for full details). Total items: 1615
+2026-03-21T06:38:14.6998851-04:00|Removed 'Shoes' (See logs for full details). Total items: 1614
+2026-03-21T06:38:56.0721081-04:00|Successfully backed up project 2026-03-21 06:38:56.
+2026-03-21T06:39:56.7190185-04:00|Successfully backed up project 2026-03-21 06:39:56.
+2026-03-21T06:40:23.0372603-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
