@@ -1879,3 +1879,53 @@
 2026-03-21T06:40:54.9976366-04:00|Successfully backed up project 2026-03-21 06:40:54.
 2026-03-21T06:42:29.7446139-04:00|Successfully built FiveM resource (1614 clothes / 0 tattoos / 0 facial overlays) to D:\DurtyClothTool.App\Onyx RP Civ Packs\onyx_civpackone
 2026-03-21T06:42:44.7483948-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
+2026-03-21T10:34:20.3805485-04:00|1614 items in total loading from Project D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj (1614 clothes/0 decorations/0 facial overlays) ...
+2026-03-21T10:34:21.2032109-04:00|Loading all 11696 items, this can take a moment...
+2026-03-21T10:36:51.1731526-04:00|Finished loading all 11696 items.
+2026-03-21T10:36:51.2476373-04:00|Project D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj completely loaded 11696 items and ready to rock (in 158.6182256 seconds).
+2026-03-21T10:37:38.0836424-04:00|Changed position of 'Female 14 Shoes' (Shoes) at pos 14 to 13.
+2026-03-21T10:37:38.1116706-04:00|Changed position of 'Female 16 Shoes' (Shoes) at pos 16 to 14.
+2026-03-21T10:37:38.1512299-04:00|Changed position of 'Female 17 Shoes' (Shoes) at pos 17 to 15.
+2026-03-21T10:37:38.1993275-04:00|Changed position of 'Female 18 Shoes' (Shoes) at pos 18 to 16.
+2026-03-21T10:37:38.2801895-04:00|Changed position of 'Female 19 Shoes' (Shoes) at pos 19 to 17.
+2026-03-21T10:37:38.3383224-04:00|Changed position of 'Female 20 Shoes' (Shoes) at pos 20 to 18.
+2026-03-21T10:37:38.3583191-04:00|Changed position of 'Female 21 Shoes' (Shoes) at pos 21 to 19.
+2026-03-21T10:37:38.3813505-04:00|Changed position of 'Female 22 Shoes' (Shoes) at pos 22 to 20.
+2026-03-21T10:37:38.3942281-04:00|Changed position of 'Female 23 Shoes' (Shoes) at pos 23 to 21.
+2026-03-21T10:37:38.4117821-04:00|Changed position of 'Female 24 Shoes' (Shoes) at pos 24 to 22.
+2026-03-21T10:37:38.4251526-04:00|Changed position of 'Female 25 Shoes' (Shoes) at pos 25 to 23.
+2026-03-21T10:37:38.4424501-04:00|Changed position of 'Female 26 Shoes' (Shoes) at pos 26 to 24.
+2026-03-21T10:37:38.4710371-04:00|Changed position of 'Female 27 Shoes' (Shoes) at pos 27 to 25.
+2026-03-21T10:37:38.4899520-04:00|Changed position of 'Female 29 Shoes' (Shoes) at pos 29 to 26.
+2026-03-21T10:37:38.5025284-04:00|Changed position of 'Female 30 Shoes' (Shoes) at pos 30 to 27.
+2026-03-21T10:37:38.5198807-04:00|Changed position of 'Female 31 Shoes' (Shoes) at pos 31 to 28.
+2026-03-21T10:37:38.5425759-04:00|Changed position of 'Female 32 Shoes' (Shoes) at pos 32 to 29.
+2026-03-21T10:37:38.5616889-04:00|Changed position of 'Female 33 Shoes' (Shoes) at pos 33 to 30.
+2026-03-21T10:37:38.5772288-04:00|Changed position of 'Female 34 Shoes' (Shoes) at pos 34 to 31.
+2026-03-21T10:37:38.5983462-04:00|Changed position of 'Female 35 Shoes' (Shoes) at pos 35 to 32.
+2026-03-21T10:37:38.6112928-04:00|Changed position of 'Female 36 Shoes' (Shoes) at pos 36 to 33.
+2026-03-21T10:37:38.6347113-04:00|Changed position of 'Female 37 Shoes' (Shoes) at pos 37 to 34.
+2026-03-21T10:37:38.6470603-04:00|Changed position of 'Female 38 Shoes' (Shoes) at pos 38 to 35.
+2026-03-21T10:37:38.6679469-04:00|Changed position of 'Female 39 Shoes' (Shoes) at pos 39 to 36.
+2026-03-21T10:37:38.6798662-04:00|Changed position of 'Female 40 Shoes' (Shoes) at pos 40 to 37.
+2026-03-21T10:37:38.6952068-04:00|Changed position of 'Female 41 Shoes' (Shoes) at pos 41 to 38.
+2026-03-21T10:37:38.7136603-04:00|Changed position of 'Female 42 Shoes' (Shoes) at pos 42 to 39.
+2026-03-21T10:37:38.7313474-04:00|Changed position of 'Female 43 Shoes' (Shoes) at pos 43 to 40.
+2026-03-21T10:37:38.7442347-04:00|Changed position of 'Female 44 Shoes' (Shoes) at pos 44 to 41.
+2026-03-21T10:37:38.7599923-04:00|Changed position of 'Female 45 Shoes' (Shoes) at pos 45 to 42.
+2026-03-21T10:37:38.7701754-04:00|Changed position of 'Female 46 Shoes' (Shoes) at pos 46 to 43.
+2026-03-21T10:37:38.8196963-04:00|Changed position of 'Female 47 Shoes' (Shoes) at pos 47 to 44.
+2026-03-21T10:37:38.8372752-04:00|Changed position of 'Female 48 Shoes' (Shoes) at pos 48 to 45.
+2026-03-21T10:37:38.8538501-04:00|Changed position of 'Female 49 Shoes' (Shoes) at pos 49 to 46.
+2026-03-21T10:37:38.8658992-04:00|Changed position of 'Female 50 Shoes' (Shoes) at pos 50 to 47.
+2026-03-21T10:37:38.8915130-04:00|Changed position of 'Female 51 Shoes' (Shoes) at pos 51 to 48.
+2026-03-21T10:37:38.9032967-04:00|Changed position of 'Female 52 Shoes' (Shoes) at pos 52 to 49.
+2026-03-21T10:37:38.9197541-04:00|Changed position of 'Female 53 Shoes' (Shoes) at pos 53 to 50.
+2026-03-21T10:37:38.9312459-04:00|Changed position of 'Female 54 Shoes' (Shoes) at pos 54 to 51.
+2026-03-21T10:37:38.9478960-04:00|Changed position of 'Female 55 Shoes' (Shoes) at pos 55 to 52.
+2026-03-21T10:37:38.9802137-04:00|Changed position of 'Female 56 Shoes' (Shoes) at pos 56 to 53.
+2026-03-21T10:37:39.0009426-04:00|Changed position of 'Female 58 Shoes' (Shoes) at pos 58 to 54.
+2026-03-21T10:37:39.0126575-04:00|Changed position of 'Female 59 Shoes' (Shoes) at pos 59 to 55.
+2026-03-21T10:37:39.0297034-04:00|Changed position of 'Female 60 Shoes' (Shoes) at pos 60 to 56.
+2026-03-21T10:37:39.0949455-04:00|Successfully resorted 44 from 1614 total item positions.
+2026-03-21T10:37:46.7496330-04:00|Project with 1614 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
