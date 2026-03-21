@@ -1822,3 +1822,41 @@
 2026-03-21T06:27:36.6435019-04:00|Texture 'e' (3553025d-0c70-4e81-b91f-295a33c19274.ytd) file got successfully updated to 3db7c647-ec59-4e85-8abe-04518f0162a9.ytd.
 2026-03-21T06:27:36.6869663-04:00|Texture 5 optimized from 585 KB to 71 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 2048px/4096px => 1024px/2048px, mip maps 10 => 9
 2026-03-21T06:27:36.6870632-04:00|Successfully optimized drawable texture 'e' of 'Female 96 Undershirt' (Undershirt) at pos 96
+2026-03-21T06:27:54.9707473-04:00|Successfully backed up project 2026-03-21 06:27:54.
+2026-03-21T06:28:08.4992322-04:00|Trying to optimize texture 'a' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:12.4786185-04:00|Texture 'a' (bc46dea0-f6a0-4bf7-8deb-f7debb440812.ytd) file got successfully updated to a8e316d1-8c36-4df0-a27c-a6d4155eedd4.ytd.
+2026-03-21T06:28:12.7253653-04:00|Texture 1 optimized from 813 KB to 369 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:12.7254693-04:00|Successfully optimized drawable texture 'a' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:12.8675679-04:00|Trying to optimize texture 'b' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:17.0246236-04:00|Texture 'b' (d7933da7-3ae8-47f4-8cfe-5ac0485caad7.ytd) file got successfully updated to f3bfee1f-f1bb-497e-b0b5-7cb8f52ad00a.ytd.
+2026-03-21T06:28:17.2637319-04:00|Texture 2 optimized from 591 KB to 296 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:17.2638526-04:00|Successfully optimized drawable texture 'b' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:17.4269297-04:00|Trying to optimize texture 'c' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:21.2437111-04:00|Texture 'c' (c3a2ed74-eadb-48e4-8ddb-1bee2c22262f.ytd) file got successfully updated to 63624bcc-f982-467c-8a55-b6ee4ff2bcd3.ytd.
+2026-03-21T06:28:21.5082253-04:00|Texture 3 optimized from 1 MB to 544 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:21.5083710-04:00|Successfully optimized drawable texture 'c' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:21.6428898-04:00|Trying to optimize texture 'd' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:25.0963754-04:00|Texture 'd' (c701ce17-4eff-414a-890b-fbc2177d4cb3.ytd) file got successfully updated to 7b46efed-db83-41de-9b14-fb4faa636975.ytd.
+2026-03-21T06:28:25.2398970-04:00|Texture 4 optimized from 1 MB to 461 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:25.2400065-04:00|Successfully optimized drawable texture 'd' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:25.3700096-04:00|Trying to optimize texture 'e' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:29.2515539-04:00|Texture 'e' (30fa9e9d-17c3-4b78-9e4b-07b3496959df.ytd) file got successfully updated to 93422390-b13b-49e5-9df6-7d6e55d25603.ytd.
+2026-03-21T06:28:29.4146939-04:00|Texture 5 optimized from 902 KB to 417 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:29.4148015-04:00|Successfully optimized drawable texture 'e' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:29.5847338-04:00|Trying to optimize texture 'f' of 'Female 97 Top' (Top) at pos 97 ...
+2026-03-21T06:28:32.8634795-04:00|Texture 'f' (391c6770-d0f2-4d45-8ef8-fb280ca41ac1.ytd) file got successfully updated to 51654a5d-d5b1-403f-b6e8-10af013662d5.ytd.
+2026-03-21T06:28:33.0168731-04:00|Texture 6 optimized from 818 KB to 395 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:33.0169617-04:00|Successfully optimized drawable texture 'f' of 'Female 97 Top' (Top) at pos 97
+2026-03-21T06:28:47.5906303-04:00|Trying to optimize embedded textures of model 'mp_f_freemode_01_mp_f_onyx_civpackone^jbib_097_u.ydd 'Female 97 Top' (Top) at pos 97 => 786fa86a-123e-4c2d-9731-800edec27ee3.ydd' ...
+2026-03-21T06:28:52.7192785-04:00|Drawable 'Female 97 Top' (Top) at pos 97 (786fa86a-123e-4c2d-9731-800edec27ee3.ydd) file got successfully updated to e50fa981-093f-404f-a71f-8f2362c52abd.ydd.
+2026-03-21T06:28:56.1807448-04:00|Drawable 'Female 97 Top' (Top) at pos 97 (e50fa981-093f-404f-a71f-8f2362c52abd.ydd) file got successfully updated to b7dcb5d6-562a-44cb-83df-47d7e310ae55.ydd.
+2026-03-21T06:28:56.3269351-04:00|Texture Normal optimized from 3 MB to 2 MB, format D3DFMT_DXT1 => D3DFMT_DXT1, width/height 8px/8px => 4px/4px, mip maps 1 => 1
+2026-03-21T06:28:56.3270847-04:00|Texture 1 optimized from 3 MB to 2 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:28:56.3276547-04:00|Texture metal optimized from 3 MB to 2 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 52px/52px => 26px/26px, mip maps 6 => 3
+2026-03-21T06:28:56.3280077-04:00|Successfully optimized embedded textures of model 'mp_f_freemode_01_mp_f_onyx_civpackone^jbib_097_u.ydd 'Female 97 Top' (Top) at pos 97 => b7dcb5d6-562a-44cb-83df-47d7e310ae55.ydd'
+2026-03-21T06:29:04.3715458-04:00|Trying to optimize texture 'a' of 'Female 99 Legs' (Legs) at pos 99 ...
+2026-03-21T06:29:08.1831677-04:00|Texture 'a' (0c7d602a-47b2-42c2-a2bc-30119598c48b.ytd) file got successfully updated to a90d0700-6a01-42c5-8445-11126c1b6808.ytd.
+2026-03-21T06:29:08.3266694-04:00|Texture S4_3453CF95_80000000_2AF30E7F6F7F8C17%%+RLE2 optimized from 1 MB to 536 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4096px/8192px => 2048px/4096px, mip maps 11 => 10
+2026-03-21T06:29:08.3267592-04:00|Successfully optimized drawable texture 'a' of 'Female 99 Legs' (Legs) at pos 99
+2026-03-21T06:29:55.0080586-04:00|Successfully backed up project 2026-03-21 06:29:55.
+2026-03-21T06:30:37.2712609-04:00|Project with 1617 clothes/decorations saved (D:\DurtyClothTool.App\Onyx RP Civ Packs\Github\onyx-clothing\onyx_civpackone.dctproj).
